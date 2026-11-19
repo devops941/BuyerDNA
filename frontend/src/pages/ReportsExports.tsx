@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useDataset } from '../context/DatasetContext';
-import { reportApi } from '../api';
+import { reportApi, SERVER_URL } from '../api';
 import { Card } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
 import { Badge } from '../components/ui/Badge';
@@ -60,7 +60,7 @@ export const ReportsExports: React.FC = () => {
 
       // Trigger download
       if (res.data.data?.downloadUrl) {
-        window.open(`http://localhost:5000${res.data.data.downloadUrl}`, '_blank');
+        window.open(`${SERVER_URL}${res.data.data.downloadUrl}`, '_blank');
       }
     } catch (err: any) {
       toast.error(err.response?.data?.message || 'Report generation failed', { id: toastId });
@@ -199,7 +199,7 @@ export const ReportsExports: React.FC = () => {
                     </td>
                     <td className="py-2.5 px-3 text-right">
                       <a
-                        href={`http://localhost:5000${rep.downloadUrl}`}
+                        href={`${SERVER_URL}${rep.downloadUrl}`}
                         target="_blank"
                         rel="noreferrer"
                         className="inline-flex items-center gap-1 text-xs font-semibold text-emerald-700 hover:underline"

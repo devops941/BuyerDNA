@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useAuth } from '../context/AuthContext';
-import { authApi } from '../api';
+import { authApi, API_BASE_URL, ML_URL } from '../api';
 import { Card } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
 import { Badge } from '../components/ui/Badge';
@@ -131,19 +131,19 @@ export const Settings: React.FC = () => {
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
           <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/50">
             <div className="flex items-center justify-between mb-2">
-              <span className="text-xs font-semibold text-slate-800">Node.js Express Backend</span>
+              <span className="text-xs font-semibold text-slate-800">Backend API Gateway</span>
               <CheckCircle2 className="w-4 h-4 text-emerald-600" />
             </div>
-            <p className="text-[11px] text-slate-500 font-mono">http://localhost:5000/api/v1</p>
+            <p className="text-[11px] text-slate-500 font-mono truncate" title={API_BASE_URL}>{API_BASE_URL}</p>
             <Badge variant="success" size="sm" className="mt-2">Operational</Badge>
           </div>
 
           <div className="p-4 rounded-xl border border-slate-200 bg-slate-50/50">
             <div className="flex items-center justify-between mb-2">
-              <span className="text-xs font-semibold text-slate-800">Python FastAPI ML Service</span>
+              <span className="text-xs font-semibold text-slate-800">Python ML Microservice</span>
               <CheckCircle2 className="w-4 h-4 text-emerald-600" />
             </div>
-            <p className="text-[11px] text-slate-500 font-mono">http://localhost:8000/ml</p>
+            <p className="text-[11px] text-slate-500 font-mono truncate" title={ML_URL}>{ML_URL}</p>
             <Badge variant="success" size="sm" className="mt-2">ML Engine Ready</Badge>
           </div>
 

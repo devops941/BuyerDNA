@@ -1,4 +1,5 @@
-import { apiClient } from './client';
+import { apiClient, SERVER_URL, API_BASE_URL, ML_URL } from './client';
+export { SERVER_URL, API_BASE_URL, ML_URL };
 import {
   User, Dataset, Customer, AnalysisJob, AnalysisResult,
   DashboardOverviewData
