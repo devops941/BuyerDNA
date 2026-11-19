@@ -1,0 +1,740 @@
+transaction_id,customer_id,customer_name,transaction_date,product_id,product_name,product_category,quantity,unit_price,total_amount,discount,payment_method,channel,city,region,gender,age
+TX-10637,CUST-1131,Henry Wilson,2025-08-24,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,190.0,0.0,Apple Pay,Mobile App,Berlin,Europe,Female,28
+TX-10602,CUST-1125,Harper Rodriguez,2025-06-02,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,Credit Card,Mobile App,Paris,Europe,Male,59
+TX-10739,CUST-1150,Evelyn White,2026-03-06,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,3,85.0,255.0,0.0,Apple Pay,Online Web,Tokyo,Asia-Pacific,Male,49
+TX-10315,CUST-1067,Harper Jackson,2025-12-21,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,26.5,0.0,Credit Card,In-Store POS,Toronto,North America,Non-Binary,68
+TX-10111,CUST-1021,Sebastian Taylor,2025-12-05,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,2,349.5,594.15,0.15,Credit Card,Mobile App,Tokyo,Asia-Pacific,Male,54
+TX-10256,CUST-1054,Jack Martinez,2025-09-11,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,Debit Card,In-Store POS,San Francisco,North America,Female,50
+TX-10383,CUST-1080,Evelyn Martin,2025-10-24,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,46.4,0.2,Debit Card,Mobile App,Berlin,Europe,Non-Binary,47
+TX-10258,CUST-1055,Matthew Brown,2025-11-24,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Credit Card,In-Store POS,San Francisco,North America,Non-Binary,34
+TX-10382,CUST-1080,Evelyn Martin,2025-08-26,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,Credit Card,Online Web,Berlin,Europe,Non-Binary,47
+TX-10677,CUST-1141,Sophia Jackson,2025-05-29,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,4,45.0,171.0,0.05,Credit Card,Online Web,Toronto,North America,Non-Binary,59
+TX-10542,CUST-1113,Lucas Hernandez,2025-10-29,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,Debit Card,Online Web,Berlin,Europe,Male,31
+TX-10186,CUST-1039,Emma Brown,2025-10-22,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,76.5,0.1,Credit Card,In-Store POS,New York,North America,Male,67
+TX-10225,CUST-1048,Emma Thompson,2025-09-16,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,Bank Transfer,In-Store POS,Sydney,Asia-Pacific,Non-Binary,54
+TX-10517,CUST-1109,Sebastian Rodriguez,2026-01-17,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,PayPal,In-Store POS,Toronto,North America,Male,26
+TX-10102,CUST-1018,Chloe Rodriguez,2026-03-01,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,68.0,0.2,PayPal,Online Web,Tokyo,Asia-Pacific,Male,58
+TX-10066,CUST-1010,Mia Wilson,2026-02-08,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,Bank Transfer,In-Store POS,San Francisco,North America,Female,27
+TX-10324,CUST-1069,Alexander Thomas,2025-08-24,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,3,89.0,267.0,0.0,Bank Transfer,Mobile App,London,Europe,Male,31
+TX-10505,CUST-1106,Sebastian Thompson,2025-10-21,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,PayPal,Mobile App,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10694,CUST-1143,Matthew Thomas,2026-02-28,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,3,85.0,255.0,0.0,Credit Card,In-Store POS,Berlin,Europe,Non-Binary,60
+TX-10169,CUST-1035,Alexander Williams,2025-12-18,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,144.0,0.2,Apple Pay,In-Store POS,Singapore,Asia-Pacific,Female,38
+TX-10047,CUST-1007,Harper White,2025-11-22,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,88.0,0.2,Apple Pay,Online Web,Berlin,Europe,Female,67
+TX-10412,CUST-1086,Aria Martinez,2025-10-21,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,2,89.0,178.0,0.0,Bank Transfer,In-Store POS,San Francisco,North America,Female,64
+TX-10174,CUST-1037,Mia Moore,2025-04-05,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,80.75,0.05,Debit Card,In-Store POS,Toronto,North America,Female,27
+TX-10234,CUST-1049,Daniel Williams,2025-10-14,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,26.1,0.1,Apple Pay,Online Web,Chicago,North America,Female,59
+TX-10098,CUST-1018,Chloe Rodriguez,2025-09-17,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,Apple Pay,Mobile App,Tokyo,Asia-Pacific,Male,58
+TX-10002,CUST-1001,Sophia Smith,2025-04-04,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,80.1,0.1,PayPal,Mobile App,Berlin,Europe,Female,35
+TX-10516,CUST-1109,Sebastian Rodriguez,2025-12-08,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,Bank Transfer,In-Store POS,Toronto,North America,Male,26
+TX-10367,CUST-1078,Daniel Jackson,2025-05-26,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,4,28.0,112.0,0.0,PayPal,Mobile App,London,Europe,Male,48
+TX-10235,CUST-1049,Daniel Williams,2025-11-18,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,38.25,0.15,Bank Transfer,In-Store POS,Chicago,North America,Female,59
+TX-10119,CUST-1024,Henry Martin,2025-08-13,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,110.0,0.0,Credit Card,In-Store POS,Chicago,North America,Non-Binary,27
+TX-10292,CUST-1061,Emma Williams,2025-11-08,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,58.0,0.0,Debit Card,Mobile App,Toronto,North America,Male,23
+TX-10555,CUST-1114,Sophia Miller,2025-12-10,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,PayPal,In-Store POS,Berlin,Europe,Female,58
+TX-10220,CUST-1047,Emma Thompson,2025-09-02,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,38.4,0.2,Debit Card,In-Store POS,Singapore,Asia-Pacific,Female,68
+TX-10033,CUST-1004,Lucas Jackson,2025-11-17,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,33.25,0.05,Credit Card,In-Store POS,Toronto,North America,Female,49
+TX-10667,CUST-1138,Ava Johnson,2025-08-02,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,2,24.5,44.1,0.1,Bank Transfer,Online Web,Berlin,Europe,Male,28
+TX-10228,CUST-1048,Emma Thompson,2025-12-14,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,2,26.5,47.7,0.1,Debit Card,Online Web,Sydney,Asia-Pacific,Non-Binary,54
+TX-10625,CUST-1128,Ella Hernandez,2025-12-22,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,2,35.0,70.0,0.0,Credit Card,Online Web,New York,North America,Female,39
+TX-10498,CUST-1105,Sebastian Miller,2026-01-08,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,76.0,0.05,Apple Pay,Mobile App,Sydney,Asia-Pacific,Female,60
+TX-10449,CUST-1096,Daniel Moore,2025-09-12,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,2,28.0,56.0,0.0,Bank Transfer,Online Web,London,Europe,Male,49
+TX-10308,CUST-1066,Emma Anderson,2025-08-24,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,81.0,0.1,Credit Card,Online Web,London,Europe,Non-Binary,36
+TX-10451,CUST-1096,Daniel Moore,2025-12-05,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,4,24.5,98.0,0.0,Debit Card,Mobile App,London,Europe,Male,49
+TX-10091,CUST-1017,Jack Jones,2025-05-30,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Bank Transfer,In-Store POS,Berlin,Europe,Female,36
+TX-10596,CUST-1123,Jack Garcia,2025-10-17,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,39.9,0.05,Debit Card,Online Web,Sydney,Asia-Pacific,Non-Binary,60
+TX-10059,CUST-1009,Aria Anderson,2025-11-01,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,2,22.0,44.0,0.0,Bank Transfer,In-Store POS,Tokyo,Asia-Pacific,Female,66
+TX-10366,CUST-1078,Daniel Jackson,2025-04-10,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,71.2,0.2,Bank Transfer,Mobile App,London,Europe,Male,48
+TX-10504,CUST-1106,Sebastian Thompson,2025-09-10,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,2,24.5,49.0,0.0,Bank Transfer,Mobile App,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10082,CUST-1016,Matthew Martinez,2025-06-22,PROD-EL04,USB-C Fast Charging Hub,Electronics,2,39.99,79.98,0.0,Bank Transfer,Mobile App,London,Europe,Non-Binary,52
+TX-10675,CUST-1140,William Jones,2026-03-05,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,29.75,0.15,Debit Card,Online Web,Tokyo,Asia-Pacific,Male,26
+TX-10484,CUST-1103,Chloe White,2025-10-30,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,306.0,0.15,PayPal,Online Web,London,Europe,Male,35
+TX-10283,CUST-1059,Sophia Jackson,2025-11-16,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,58.95,0.1,Credit Card,In-Store POS,Chicago,North America,Male,39
+TX-10652,CUST-1134,Sophia Davis,2025-10-31,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,110.0,0.0,Apple Pay,In-Store POS,Berlin,Europe,Female,44
+TX-10084,CUST-1016,Matthew Martinez,2025-09-27,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,104.5,0.05,Bank Transfer,In-Store POS,London,Europe,Non-Binary,52
+TX-10709,CUST-1145,Mia Miller,2025-08-14,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,90.0,0.0,Debit Card,Online Web,Singapore,Asia-Pacific,Female,31
+TX-10671,CUST-1139,Sebastian Moore,2025-09-03,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Debit Card,In-Store POS,San Francisco,North America,Non-Binary,61
+TX-10419,CUST-1088,Aria Williams,2025-12-31,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,Credit Card,In-Store POS,Sydney,Asia-Pacific,Male,61
+TX-10418,CUST-1088,Aria Williams,2025-11-22,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,2,349.5,629.1,0.1,PayPal,Online Web,Sydney,Asia-Pacific,Male,61
+TX-10288,CUST-1061,Emma Williams,2025-05-12,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Bank Transfer,In-Store POS,Toronto,North America,Male,23
+TX-10548,CUST-1114,Sophia Miller,2025-04-11,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,26.5,0.0,Bank Transfer,In-Store POS,Berlin,Europe,Female,58
+TX-10266,CUST-1057,Jack Jackson,2026-01-03,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,72.25,0.15,PayPal,In-Store POS,Berlin,Europe,Non-Binary,62
+TX-10541,CUST-1113,Lucas Hernandez,2025-08-30,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,Credit Card,Mobile App,Berlin,Europe,Male,31
+TX-10444,CUST-1095,Ella Hernandez,2026-01-09,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,131.0,0.0,Credit Card,In-Store POS,Berlin,Europe,Female,61
+TX-10608,CUST-1126,Henry Jackson,2025-04-04,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Bank Transfer,Online Web,New York,North America,Non-Binary,33
+TX-10695,CUST-1144,Sophia Davis,2025-03-18,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,36.0,0.2,Credit Card,In-Store POS,London,Europe,Male,63
+TX-10398,CUST-1083,James Wilson,2025-06-29,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,4,95.0,361.0,0.05,Debit Card,In-Store POS,Berlin,Europe,Female,48
+TX-10543,CUST-1113,Lucas Hernandez,2025-11-19,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,71.25,0.05,PayPal,In-Store POS,Berlin,Europe,Male,31
+TX-10622,CUST-1127,Luna Moore,2026-02-06,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,4,199.99,719.96,0.1,Debit Card,Mobile App,Singapore,Asia-Pacific,Female,65
+TX-10061,CUST-1009,Aria Anderson,2025-12-28,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,23.8,0.15,Debit Card,Mobile App,Tokyo,Asia-Pacific,Female,66
+TX-10689,CUST-1143,Matthew Thomas,2025-09-02,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,80.1,0.1,PayPal,In-Store POS,Berlin,Europe,Non-Binary,60
+TX-10702,CUST-1144,Sophia Davis,2025-06-30,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,2,42.0,71.4,0.15,PayPal,In-Store POS,London,Europe,Male,63
+TX-10159,CUST-1032,Jack Martin,2025-11-28,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,220.0,0.0,Bank Transfer,Mobile App,Sydney,Asia-Pacific,Female,36
+TX-10453,CUST-1096,Daniel Moore,2026-02-24,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Credit Card,In-Store POS,London,Europe,Male,49
+TX-10496,CUST-1105,Sebastian Miller,2025-11-10,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,24.5,0.0,Apple Pay,Online Web,Sydney,Asia-Pacific,Female,60
+TX-10736,CUST-1150,Evelyn White,2025-11-19,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,220.0,0.0,Bank Transfer,In-Store POS,Tokyo,Asia-Pacific,Male,49
+TX-10167,CUST-1035,Alexander Williams,2025-10-01,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,Apple Pay,Mobile App,Singapore,Asia-Pacific,Female,38
+TX-10719,CUST-1146,Jack White,2026-01-01,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,3,48.0,115.2,0.2,Apple Pay,Mobile App,Sydney,Asia-Pacific,Male,23
+TX-10003,CUST-1001,Sophia Smith,2025-04-29,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,3,95.0,285.0,0.0,Bank Transfer,Mobile App,Berlin,Europe,Female,35
+TX-10194,CUST-1041,Luna Miller,2025-07-29,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,2,75.0,135.0,0.1,Bank Transfer,In-Store POS,Berlin,Europe,Male,36
+TX-10593,CUST-1122,Matthew Rodriguez,2026-01-12,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,114.0,0.05,Debit Card,In-Store POS,Paris,Europe,Female,26
+TX-10502,CUST-1106,Sebastian Thompson,2025-06-04,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,2,199.99,399.98,0.0,Bank Transfer,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10363,CUST-1077,Matthew Davis,2026-01-23,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,80.75,0.05,Credit Card,Online Web,Berlin,Europe,Female,66
+TX-10097,CUST-1018,Chloe Rodriguez,2025-08-09,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,2,42.0,79.8,0.05,Bank Transfer,Online Web,Tokyo,Asia-Pacific,Male,58
+TX-10192,CUST-1040,Sophia Garcia,2026-02-12,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,40.8,0.15,PayPal,In-Store POS,London,Europe,Female,55
+TX-10209,CUST-1045,Sebastian Rodriguez,2025-06-06,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,104.8,0.2,Debit Card,Mobile App,Sydney,Asia-Pacific,Male,48
+TX-10431,CUST-1092,Sophia Hernandez,2026-01-03,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,314.55,0.1,Apple Pay,Mobile App,Chicago,North America,Male,63
+TX-10114,CUST-1022,Chloe Smith,2025-09-27,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,170.0,0.0,Debit Card,Mobile App,San Francisco,North America,Non-Binary,55
+TX-10071,CUST-1011,Jack Anderson,2025-12-05,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,71.25,0.05,Debit Card,Mobile App,Chicago,North America,Male,43
+TX-10304,CUST-1065,Luna Jones,2025-05-10,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Credit Card,In-Store POS,New York,North America,Male,44
+TX-10204,CUST-1044,Ella Davis,2025-11-01,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Bank Transfer,Mobile App,Toronto,North America,Female,31
+TX-10381,CUST-1079,Alexander White,2025-11-14,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,35.7,0.15,Credit Card,In-Store POS,Paris,Europe,Non-Binary,28
+TX-10552,CUST-1114,Sophia Miller,2025-09-19,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,26.1,0.1,Bank Transfer,Online Web,Berlin,Europe,Female,58
+TX-10646,CUST-1133,Ella Rodriguez,2026-01-26,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,171.0,0.1,Bank Transfer,Mobile App,Tokyo,Asia-Pacific,Non-Binary,59
+TX-10635,CUST-1131,Henry Wilson,2025-05-30,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Bank Transfer,Online Web,Berlin,Europe,Female,28
+TX-10624,CUST-1128,Ella Hernandez,2025-12-01,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Apple Pay,Online Web,New York,North America,Female,39
+TX-10421,CUST-1088,Aria Williams,2026-02-18,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,102.0,0.15,Apple Pay,Mobile App,Sydney,Asia-Pacific,Male,61
+TX-10023,CUST-1002,Sophia Jackson,2026-02-11,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,3,95.0,270.75,0.05,Debit Card,In-Store POS,San Francisco,North America,Non-Binary,48
+TX-10429,CUST-1091,Daniel Hernandez,2026-02-16,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,34.2,0.1,Bank Transfer,Online Web,New York,North America,Non-Binary,36
+TX-10425,CUST-1089,Sebastian Moore,2025-09-02,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,39.9,0.05,PayPal,Online Web,Toronto,North America,Female,30
+TX-10236,CUST-1049,Daniel Williams,2025-12-26,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,53.99,0.1,Credit Card,Online Web,Chicago,North America,Female,59
+TX-10346,CUST-1074,Chloe Martinez,2025-10-09,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,102.0,0.15,Bank Transfer,Mobile App,New York,North America,Female,37
+TX-10218,CUST-1046,Chloe Moore,2026-02-18,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,162.0,0.1,Apple Pay,Online Web,Chicago,North America,Female,39
+TX-10070,CUST-1011,Jack Anderson,2025-11-06,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,Debit Card,Online Web,Chicago,North America,Male,43
+TX-10264,CUST-1056,William Anderson,2026-02-16,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,PayPal,Mobile App,San Francisco,North America,Female,44
+TX-10647,CUST-1133,Ella Rodriguez,2026-03-01,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,3,29.0,87.0,0.0,PayPal,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,59
+TX-10720,CUST-1146,Jack White,2026-02-15,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,171.0,0.05,Bank Transfer,Mobile App,Sydney,Asia-Pacific,Male,23
+TX-10042,CUST-1006,Alexander Brown,2025-10-08,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,3,180.0,540.0,0.0,Credit Card,In-Store POS,San Francisco,North America,Male,27
+TX-10460,CUST-1098,Oliver Jones,2025-08-12,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,55.1,0.05,PayPal,Online Web,Chicago,North America,Female,45
+TX-10585,CUST-1120,Jack Jones,2025-11-29,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,2,199.99,399.98,0.0,Credit Card,Mobile App,Toronto,North America,Female,67
+TX-10293,CUST-1061,Emma Williams,2025-12-02,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,67.5,0.1,PayPal,Mobile App,Toronto,North America,Male,23
+TX-10127,CUST-1026,Ava Jackson,2025-11-19,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,Debit Card,In-Store POS,Singapore,Asia-Pacific,Female,59
+TX-10503,CUST-1106,Sebastian Thompson,2025-07-23,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,2,75.0,150.0,0.0,Credit Card,Mobile App,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10524,CUST-1110,Chloe Johnson,2025-11-15,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,67.5,0.1,Debit Card,Mobile App,Paris,Europe,Female,62
+TX-10447,CUST-1096,Daniel Moore,2025-07-13,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Credit Card,Mobile App,London,Europe,Male,49
+TX-10026,CUST-1003,Oliver Davis,2025-07-19,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,80.75,0.05,Bank Transfer,In-Store POS,London,Europe,Non-Binary,59
+TX-10488,CUST-1104,Ella Smith,2025-03-23,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,2,75.0,150.0,0.0,PayPal,Mobile App,Toronto,North America,Male,63
+TX-10390,CUST-1081,Evelyn Jackson,2025-05-03,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,35.99,0.1,PayPal,Online Web,Chicago,North America,Female,47
+TX-10029,CUST-1003,Oliver Davis,2025-10-16,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Debit Card,Mobile App,London,Europe,Non-Binary,59
+TX-10332,CUST-1071,Jack Anderson,2025-04-08,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,187.0,0.15,Credit Card,Online Web,Berlin,Europe,Female,35
+TX-10286,CUST-1060,Alexander Davis,2026-01-04,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,76.5,0.1,Apple Pay,In-Store POS,Berlin,Europe,Non-Binary,52
+TX-10183,CUST-1038,Luna Anderson,2025-07-24,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,3,89.0,267.0,0.0,Debit Card,In-Store POS,Toronto,North America,Male,50
+TX-10566,CUST-1116,Matthew Garcia,2025-04-23,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,162.0,0.1,Bank Transfer,In-Store POS,San Francisco,North America,Non-Binary,40
+TX-10154,CUST-1031,Chloe Davis,2025-11-04,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,28.0,0.0,Credit Card,Online Web,Berlin,Europe,Male,63
+TX-10626,CUST-1128,Ella Hernandez,2026-02-04,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,34.2,0.1,Bank Transfer,Online Web,New York,North America,Female,39
+TX-10615,CUST-1126,Henry Jackson,2025-09-28,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Debit Card,In-Store POS,New York,North America,Non-Binary,33
+TX-10716,CUST-1145,Mia Miller,2026-03-11,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,Credit Card,Mobile App,Singapore,Asia-Pacific,Female,31
+TX-10571,CUST-1118,Harper Williams,2025-04-03,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,3,42.0,113.4,0.1,Apple Pay,In-Store POS,Singapore,Asia-Pacific,Non-Binary,42
+TX-10076,CUST-1012,Henry Williams,2026-01-17,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Bank Transfer,Online Web,Tokyo,Asia-Pacific,Non-Binary,31
+TX-10107,CUST-1020,Sophia Jones,2026-01-09,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,4,24.5,98.0,0.0,Apple Pay,Mobile App,Chicago,North America,Non-Binary,48
+TX-10594,CUST-1122,Matthew Rodriguez,2026-02-22,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,39.9,0.05,Apple Pay,Mobile App,Paris,Europe,Female,26
+TX-10117,CUST-1023,Alexander Brown,2026-02-03,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,85.5,0.1,Debit Card,In-Store POS,Berlin,Europe,Male,31
+TX-10025,CUST-1003,Oliver Davis,2025-05-21,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,31.5,0.1,Apple Pay,Mobile App,London,Europe,Non-Binary,59
+TX-10322,CUST-1068,Mia Miller,2026-02-05,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,104.5,0.05,Debit Card,Mobile App,Chicago,North America,Male,22
+TX-10387,CUST-1080,Evelyn Martin,2026-02-05,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,2,26.5,50.35,0.05,Credit Card,Mobile App,Berlin,Europe,Non-Binary,47
+TX-10673,CUST-1139,Sebastian Moore,2025-11-23,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,110.0,0.0,Bank Transfer,Mobile App,San Francisco,North America,Non-Binary,61
+TX-10004,CUST-1001,Sophia Smith,2025-05-16,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,32.0,0.0,Apple Pay,In-Store POS,Berlin,Europe,Female,35
+TX-10034,CUST-1004,Lucas Jackson,2025-12-27,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,76.0,0.0,Apple Pay,Online Web,Toronto,North America,Female,49
+TX-10301,CUST-1064,William Jackson,2025-11-12,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,4,24.5,93.1,0.05,Credit Card,Online Web,New York,North America,Male,58
+TX-10537,CUST-1113,Lucas Hernandez,2025-04-02,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,47.99,0.2,PayPal,In-Store POS,Berlin,Europe,Male,31
+TX-10395,CUST-1082,Sebastian Miller,2025-12-14,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Apple Pay,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,40
+TX-10157,CUST-1032,Jack Martin,2025-09-28,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,Debit Card,In-Store POS,Sydney,Asia-Pacific,Female,36
+TX-10165,CUST-1034,James Williams,2026-02-25,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,38.4,0.2,Bank Transfer,Online Web,New York,North America,Female,25
+TX-10037,CUST-1005,James Miller,2025-12-16,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,23.85,0.1,Apple Pay,In-Store POS,Toronto,North America,Male,38
+TX-10441,CUST-1094,Daniel Thomas,2025-11-12,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,Bank Transfer,Mobile App,Singapore,Asia-Pacific,Male,31
+TX-10255,CUST-1054,Jack Martinez,2025-08-22,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,29.75,0.15,Debit Card,Mobile App,San Francisco,North America,Female,50
+TX-10370,CUST-1078,Daniel Jackson,2025-10-06,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,3,89.0,253.65,0.05,Bank Transfer,Online Web,London,Europe,Male,48
+TX-10403,CUST-1085,Daniel Moore,2025-05-25,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,53.99,0.1,Credit Card,Mobile App,Chicago,North America,Non-Binary,26
+TX-10207,CUST-1045,Sebastian Rodriguez,2025-04-21,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Credit Card,In-Store POS,Sydney,Asia-Pacific,Male,48
+TX-10433,CUST-1093,Chloe White,2025-05-10,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,18.7,0.15,Bank Transfer,Online Web,Paris,Europe,Male,60
+TX-10397,CUST-1082,Sebastian Miller,2026-02-12,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,22.05,0.1,PayPal,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,40
+TX-10261,CUST-1056,William Anderson,2025-10-27,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,3,42.0,113.4,0.1,Debit Card,In-Store POS,San Francisco,North America,Female,44
+TX-10512,CUST-1107,Luna Jones,2026-02-04,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,53.99,0.1,Credit Card,In-Store POS,Sydney,Asia-Pacific,Female,24
+TX-10224,CUST-1047,Emma Thompson,2026-02-24,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,26.5,0.0,Credit Card,Mobile App,Singapore,Asia-Pacific,Female,68
+TX-10474,CUST-1101,Matthew Smith,2025-08-29,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,Apple Pay,In-Store POS,Tokyo,Asia-Pacific,Male,51
+TX-10519,CUST-1110,Chloe Johnson,2025-05-16,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,56.99,0.05,Apple Pay,In-Store POS,Paris,Europe,Female,62
+TX-10330,CUST-1071,Jack Anderson,2025-04-06,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Credit Card,Online Web,Berlin,Europe,Female,35
+TX-10432,CUST-1092,Sophia Hernandez,2026-02-17,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,Credit Card,Mobile App,Chicago,North America,Male,63
+TX-10525,CUST-1110,Chloe Johnson,2025-12-16,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,220.0,0.0,Debit Card,Mobile App,Paris,Europe,Female,62
+TX-10520,CUST-1110,Chloe Johnson,2025-07-06,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,80.1,0.1,Debit Card,Mobile App,Paris,Europe,Female,62
+TX-10648,CUST-1134,Sophia Davis,2025-05-14,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,33.6,0.2,Apple Pay,Mobile App,Berlin,Europe,Female,44
+TX-10279,CUST-1059,Sophia Jackson,2025-06-01,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,2,35.0,70.0,0.0,PayPal,In-Store POS,Chicago,North America,Male,39
+TX-10497,CUST-1105,Sebastian Miller,2025-12-22,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,170.0,0.0,PayPal,Mobile App,Sydney,Asia-Pacific,Female,60
+TX-10386,CUST-1080,Evelyn Martin,2026-01-21,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,Apple Pay,Online Web,Berlin,Europe,Non-Binary,47
+TX-10573,CUST-1118,Harper Williams,2025-06-03,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,4,120.0,480.0,0.0,Debit Card,In-Store POS,Singapore,Asia-Pacific,Non-Binary,42
+TX-10551,CUST-1114,Sophia Miller,2025-08-02,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,3,38.0,108.3,0.05,Debit Card,Online Web,Berlin,Europe,Female,58
+TX-10450,CUST-1096,Daniel Moore,2025-10-25,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,2,35.0,70.0,0.0,Bank Transfer,Online Web,London,Europe,Male,49
+TX-10260,CUST-1056,William Anderson,2025-10-03,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,Debit Card,Online Web,San Francisco,North America,Female,44
+TX-10331,CUST-1071,Jack Anderson,2025-04-08,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,34.2,0.1,Apple Pay,Online Web,Berlin,Europe,Female,35
+TX-10152,CUST-1031,Chloe Davis,2025-09-07,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,324.0,0.1,Debit Card,In-Store POS,Berlin,Europe,Male,63
+TX-10317,CUST-1067,Harper Jackson,2026-02-17,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,62.22,0.05,Bank Transfer,In-Store POS,Toronto,North America,Non-Binary,68
+TX-10344,CUST-1073,Henry Anderson,2026-02-13,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,23.8,0.15,Credit Card,Online Web,Singapore,Asia-Pacific,Male,64
+TX-10699,CUST-1144,Sophia Davis,2025-04-10,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,27.55,0.05,PayPal,In-Store POS,London,Europe,Male,63
+TX-10553,CUST-1114,Sophia Miller,2025-10-15,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,23.85,0.1,Credit Card,Mobile App,Berlin,Europe,Female,58
+TX-10686,CUST-1143,Matthew Thomas,2025-04-12,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,153.0,0.1,Apple Pay,Online Web,Berlin,Europe,Non-Binary,60
+TX-10406,CUST-1085,Daniel Moore,2025-09-26,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,161.5,0.05,Debit Card,Online Web,Chicago,North America,Non-Binary,26
+TX-10575,CUST-1118,Harper Williams,2025-08-22,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,120.0,0.0,Bank Transfer,Online Web,Singapore,Asia-Pacific,Non-Binary,42
+TX-10345,CUST-1074,Chloe Martinez,2025-09-05,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,Debit Card,Online Web,New York,North America,Female,37
+TX-10125,CUST-1026,Ava Jackson,2025-09-28,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,22.05,0.1,Debit Card,Mobile App,Singapore,Asia-Pacific,Female,59
+TX-10734,CUST-1150,Evelyn White,2025-09-12,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Debit Card,In-Store POS,Tokyo,Asia-Pacific,Male,49
+TX-10213,CUST-1045,Sebastian Rodriguez,2025-11-01,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,161.5,0.05,Bank Transfer,Mobile App,Sydney,Asia-Pacific,Male,48
+TX-10413,CUST-1086,Aria Martinez,2025-12-03,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,314.55,0.1,Credit Card,Online Web,San Francisco,North America,Female,64
+TX-10489,CUST-1104,Ella Smith,2025-05-01,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,209.0,0.05,Apple Pay,Online Web,Toronto,North America,Male,63
+TX-10665,CUST-1137,James Thompson,2025-12-23,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Bank Transfer,Online Web,Berlin,Europe,Male,51
+TX-10179,CUST-1037,Mia Moore,2025-11-11,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,3,26.5,79.5,0.0,Apple Pay,Online Web,Toronto,North America,Female,27
+TX-10077,CUST-1012,Henry Williams,2026-02-18,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,PayPal,Mobile App,Tokyo,Asia-Pacific,Non-Binary,31
+TX-10049,CUST-1007,Harper White,2026-02-06,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,4,110.0,374.0,0.15,Debit Card,Online Web,Berlin,Europe,Female,67
+TX-10728,CUST-1149,William Rodriguez,2025-08-31,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,3,29.0,87.0,0.0,Bank Transfer,Mobile App,Chicago,North America,Female,24
+TX-10617,CUST-1126,Henry Jackson,2025-12-09,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,4,75.0,300.0,0.0,Credit Card,Mobile App,New York,North America,Non-Binary,33
+TX-10011,CUST-1001,Sophia Smith,2026-03-02,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,2,28.0,56.0,0.0,Credit Card,In-Store POS,Berlin,Europe,Female,35
+TX-10321,CUST-1068,Mia Miller,2025-12-30,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,18.7,0.15,Credit Card,In-Store POS,Chicago,North America,Male,22
+TX-10479,CUST-1101,Matthew Smith,2026-03-10,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,46.4,0.2,PayPal,Mobile App,Tokyo,Asia-Pacific,Male,51
+TX-10693,CUST-1143,Matthew Thomas,2026-01-10,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,3,349.5,838.8,0.2,Bank Transfer,Mobile App,Berlin,Europe,Non-Binary,60
+TX-10706,CUST-1144,Sophia Davis,2026-01-23,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,131.0,0.0,Credit Card,Mobile App,London,Europe,Male,63
+TX-10355,CUST-1076,Alexander Thomas,2025-08-26,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,PayPal,Online Web,Tokyo,Asia-Pacific,Non-Binary,28
+TX-10627,CUST-1128,Ella Hernandez,2026-03-03,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,26.5,0.0,Debit Card,In-Store POS,New York,North America,Female,39
+TX-10021,CUST-1002,Sophia Jackson,2025-12-07,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,3,28.0,67.2,0.2,Credit Card,Mobile App,San Francisco,North America,Non-Binary,48
+TX-10088,CUST-1016,Matthew Martinez,2026-03-04,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,161.5,0.15,Bank Transfer,Mobile App,London,Europe,Non-Binary,52
+TX-10401,CUST-1084,Aria Martinez,2025-09-27,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,Debit Card,Online Web,Sydney,Asia-Pacific,Male,49
+TX-10094,CUST-1017,Jack Jones,2025-09-14,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,PayPal,In-Store POS,Berlin,Europe,Female,36
+TX-10024,CUST-1002,Sophia Jackson,2026-03-12,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,56.99,0.05,Apple Pay,Online Web,San Francisco,North America,Non-Binary,48
+TX-10285,CUST-1060,Alexander Davis,2025-11-27,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,24.5,0.0,Credit Card,Mobile App,Berlin,Europe,Non-Binary,52
+TX-10701,CUST-1144,Sophia Davis,2025-05-13,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,3,48.0,122.4,0.15,Debit Card,Online Web,London,Europe,Male,63
+TX-10015,CUST-1002,Sophia Jackson,2025-04-10,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,190.0,0.0,Debit Card,Mobile App,San Francisco,North America,Non-Binary,48
+TX-10653,CUST-1134,Sophia Davis,2025-12-27,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,20.9,0.05,Credit Card,Online Web,Berlin,Europe,Female,44
+TX-10417,CUST-1087,Lucas Jones,2026-02-23,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,162.0,0.1,Apple Pay,In-Store POS,New York,North America,Female,36
+TX-10644,CUST-1133,Ella Rodriguez,2025-12-10,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,Debit Card,Online Web,Tokyo,Asia-Pacific,Non-Binary,59
+TX-10561,CUST-1115,Evelyn Thompson,2025-09-25,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,171.0,0.1,Bank Transfer,In-Store POS,Toronto,North America,Male,66
+TX-10470,CUST-1101,Matthew Smith,2025-03-26,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,27.55,0.05,Credit Card,In-Store POS,Tokyo,Asia-Pacific,Male,51
+TX-10538,CUST-1113,Lucas Hernandez,2025-04-17,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,76.0,0.0,Debit Card,In-Store POS,Berlin,Europe,Male,31
+TX-10309,CUST-1066,Emma Anderson,2025-09-13,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,33.99,0.15,PayPal,Mobile App,London,Europe,Non-Binary,36
+TX-10509,CUST-1106,Sebastian Thompson,2026-03-09,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,314.55,0.1,Credit Card,Online Web,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10328,CUST-1070,Sophia Taylor,2026-02-02,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,33.25,0.05,PayPal,Online Web,New York,North America,Male,35
+TX-10481,CUST-1102,Harper Wilson,2025-10-06,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,2,28.0,56.0,0.0,Debit Card,In-Store POS,Toronto,North America,Male,55
+TX-10210,CUST-1045,Sebastian Rodriguez,2025-07-16,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,49.3,0.15,Debit Card,Online Web,Sydney,Asia-Pacific,Male,48
+TX-10492,CUST-1104,Ella Smith,2025-07-25,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,3,35.0,105.0,0.0,Apple Pay,In-Store POS,Toronto,North America,Male,63
+TX-10576,CUST-1118,Harper Williams,2025-09-20,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,110.0,0.0,Apple Pay,Online Web,Singapore,Asia-Pacific,Non-Binary,42
+TX-10231,CUST-1049,Daniel Williams,2025-06-27,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,62.22,0.05,Bank Transfer,In-Store POS,Chicago,North America,Female,59
+TX-10407,CUST-1085,Daniel Moore,2025-10-31,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,114.0,0.05,Debit Card,Online Web,Chicago,North America,Non-Binary,26
+TX-10335,CUST-1071,Jack Anderson,2025-07-20,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,108.0,0.1,Bank Transfer,In-Store POS,Berlin,Europe,Female,35
+TX-10257,CUST-1054,Jack Martinez,2025-09-30,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,Apple Pay,In-Store POS,San Francisco,North America,Female,50
+TX-10664,CUST-1137,James Thompson,2025-11-07,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,45.6,0.05,Bank Transfer,Online Web,Berlin,Europe,Male,51
+TX-10208,CUST-1045,Sebastian Rodriguez,2025-05-06,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,4,199.99,799.96,0.0,Apple Pay,Mobile App,Sydney,Asia-Pacific,Male,48
+TX-10358,CUST-1076,Alexander Thomas,2026-01-06,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,3,180.0,540.0,0.0,Credit Card,Online Web,Tokyo,Asia-Pacific,Non-Binary,28
+TX-10253,CUST-1053,Mia Rodriguez,2025-12-10,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,90.0,0.0,Bank Transfer,Mobile App,Toronto,North America,Female,63
+TX-10549,CUST-1114,Sophia Miller,2025-05-01,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Debit Card,In-Store POS,Berlin,Europe,Female,58
+TX-10104,CUST-1019,Mia Jones,2025-09-11,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,95.0,0.0,Bank Transfer,Online Web,Singapore,Asia-Pacific,Male,26
+TX-10262,CUST-1056,William Anderson,2025-12-12,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,Credit Card,Mobile App,San Francisco,North America,Female,44
+TX-10123,CUST-1025,Evelyn Martin,2025-12-26,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,80.1,0.1,PayPal,In-Store POS,Tokyo,Asia-Pacific,Female,30
+TX-10478,CUST-1101,Matthew Smith,2026-01-19,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,3,32.0,86.4,0.1,Bank Transfer,Online Web,Tokyo,Asia-Pacific,Male,51
+TX-10733,CUST-1150,Evelyn White,2025-07-31,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,110.0,0.0,Apple Pay,Online Web,Tokyo,Asia-Pacific,Male,49
+TX-10678,CUST-1142,Mia Martin,2025-08-28,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Apple Pay,Online Web,Toronto,North America,Male,49
+TX-10731,CUST-1149,William Rodriguez,2025-12-16,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,2,48.0,91.2,0.05,Debit Card,Online Web,Chicago,North America,Female,24
+TX-10642,CUST-1132,Alexander Brown,2026-01-11,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,30.4,0.05,Apple Pay,In-Store POS,Singapore,Asia-Pacific,Non-Binary,32
+TX-10471,CUST-1101,Matthew Smith,2025-05-04,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,3,180.0,513.0,0.05,Debit Card,Mobile App,Tokyo,Asia-Pacific,Male,51
+TX-10101,CUST-1018,Chloe Rodriguez,2026-01-24,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,PayPal,Online Web,Tokyo,Asia-Pacific,Male,58
+TX-10518,CUST-1109,Sebastian Rodriguez,2026-02-09,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,104.5,0.05,Bank Transfer,Online Web,Toronto,North America,Male,26
+TX-10085,CUST-1016,Matthew Martinez,2025-11-10,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,96.0,0.2,PayPal,Online Web,London,Europe,Non-Binary,52
+TX-10311,CUST-1066,Emma Anderson,2025-11-19,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,3,110.0,280.5,0.15,Credit Card,In-Store POS,London,Europe,Non-Binary,36
+TX-10246,CUST-1052,Daniel Martinez,2025-09-08,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Credit Card,In-Store POS,Berlin,Europe,Female,63
+TX-10069,CUST-1011,Jack Anderson,2025-09-25,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,31.5,0.1,Apple Pay,Mobile App,Chicago,North America,Male,43
+TX-10700,CUST-1144,Sophia Davis,2025-04-13,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,Credit Card,Online Web,London,Europe,Male,63
+TX-10469,CUST-1101,Matthew Smith,2025-03-26,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,23.2,0.2,Credit Card,Online Web,Tokyo,Asia-Pacific,Male,51
+TX-10010,CUST-1001,Sophia Smith,2026-01-29,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,3,85.0,255.0,0.0,Credit Card,In-Store POS,Berlin,Europe,Female,35
+TX-10485,CUST-1103,Chloe White,2025-12-02,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,85.5,0.05,PayPal,In-Store POS,London,Europe,Male,35
+TX-10623,CUST-1128,Ella Hernandez,2025-10-14,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,22.4,0.2,Apple Pay,Online Web,New York,North America,Female,39
+TX-10164,CUST-1033,Alexander Smith,2026-01-16,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,20.9,0.05,Credit Card,Mobile App,Tokyo,Asia-Pacific,Non-Binary,35
+TX-10168,CUST-1035,Alexander Williams,2025-11-08,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,80.75,0.15,PayPal,Mobile App,Singapore,Asia-Pacific,Female,38
+TX-10438,CUST-1094,Daniel Thomas,2025-07-12,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,23.2,0.2,Debit Card,Online Web,Singapore,Asia-Pacific,Male,31
+TX-10128,CUST-1026,Ava Jackson,2025-12-16,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,Debit Card,Mobile App,Singapore,Asia-Pacific,Female,59
+TX-10396,CUST-1082,Sebastian Miller,2025-12-31,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,2,349.5,664.05,0.05,Credit Card,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,40
+TX-10703,CUST-1144,Sophia Davis,2025-08-18,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,199.99,0.0,Apple Pay,Online Web,London,Europe,Male,63
+TX-10115,CUST-1023,Alexander Brown,2025-12-18,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,58.95,0.1,Bank Transfer,Mobile App,Berlin,Europe,Male,31
+TX-10710,CUST-1145,Mia Miller,2025-09-27,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,18.7,0.15,Apple Pay,In-Store POS,Singapore,Asia-Pacific,Female,31
+TX-10420,CUST-1088,Aria Williams,2026-01-16,PROD-EL04,USB-C Fast Charging Hub,Electronics,3,39.99,113.97,0.05,Bank Transfer,Online Web,Sydney,Asia-Pacific,Male,61
+TX-10187,CUST-1039,Emma Brown,2025-12-10,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,2,28.0,47.6,0.15,Debit Card,Mobile App,New York,North America,Male,67
+TX-10423,CUST-1089,Sebastian Moore,2025-06-22,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,23.27,0.05,Apple Pay,In-Store POS,Toronto,North America,Female,30
+TX-10445,CUST-1095,Ella Hernandez,2026-02-12,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,25.2,0.1,Credit Card,Mobile App,Berlin,Europe,Female,61
+TX-10282,CUST-1059,Sophia Jackson,2025-10-02,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,Credit Card,In-Store POS,Chicago,North America,Male,39
+TX-10714,CUST-1145,Mia Miller,2026-01-20,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,2,24.5,46.55,0.05,Bank Transfer,In-Store POS,Singapore,Asia-Pacific,Female,31
+TX-10053,CUST-1009,Aria Anderson,2025-05-15,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Credit Card,Online Web,Tokyo,Asia-Pacific,Female,66
+TX-10275,CUST-1058,Chloe Wilson,2025-11-28,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,55.1,0.05,Bank Transfer,Online Web,San Francisco,North America,Female,37
+TX-10227,CUST-1048,Emma Thompson,2025-11-26,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,3,349.5,838.8,0.2,Credit Card,In-Store POS,Sydney,Asia-Pacific,Non-Binary,54
+TX-10564,CUST-1115,Evelyn Thompson,2026-01-29,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Debit Card,In-Store POS,Toronto,North America,Male,66
+TX-10342,CUST-1071,Jack Anderson,2026-03-07,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,120.0,0.0,Bank Transfer,Online Web,Berlin,Europe,Female,35
+TX-10221,CUST-1047,Emma Thompson,2025-10-13,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,PayPal,In-Store POS,Singapore,Asia-Pacific,Female,68
+TX-10536,CUST-1113,Lucas Hernandez,2025-03-17,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,Bank Transfer,In-Store POS,Berlin,Europe,Male,31
+TX-10690,CUST-1143,Matthew Thomas,2025-09-25,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,190.0,0.0,Debit Card,Mobile App,Berlin,Europe,Non-Binary,60
+TX-10490,CUST-1104,Ella Smith,2025-05-17,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,Bank Transfer,In-Store POS,Toronto,North America,Male,63
+TX-10629,CUST-1129,Mia Wilson,2025-12-18,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,198.0,0.1,PayPal,Mobile App,Tokyo,Asia-Pacific,Male,51
+TX-10202,CUST-1043,Chloe Smith,2026-02-16,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,171.0,0.1,PayPal,Online Web,San Francisco,North America,Female,31
+TX-10103,CUST-1019,Mia Jones,2025-07-26,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,Bank Transfer,Online Web,Singapore,Asia-Pacific,Male,26
+TX-10252,CUST-1053,Mia Rodriguez,2025-10-20,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Debit Card,Mobile App,Toronto,North America,Female,63
+TX-10036,CUST-1005,James Miller,2025-11-29,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,360.0,0.0,Apple Pay,Mobile App,Toronto,North America,Male,38
+TX-10408,CUST-1085,Daniel Moore,2025-12-20,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,76.0,0.0,Debit Card,Mobile App,Chicago,North America,Non-Binary,26
+TX-10572,CUST-1118,Harper Williams,2025-04-20,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,288.0,0.2,Bank Transfer,Mobile App,Singapore,Asia-Pacific,Non-Binary,42
+TX-10371,CUST-1078,Daniel Jackson,2025-12-01,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,Credit Card,Online Web,London,Europe,Male,48
+TX-10133,CUST-1027,James Brown,2025-03-27,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,71.25,0.05,Apple Pay,Mobile App,Paris,Europe,Male,36
+TX-10651,CUST-1134,Sophia Davis,2025-10-06,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,84.55,0.05,Apple Pay,Online Web,Berlin,Europe,Female,44
+TX-10171,CUST-1036,Lucas Jackson,2025-12-06,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,35.99,0.1,Credit Card,In-Store POS,Chicago,North America,Non-Binary,57
+TX-10199,CUST-1043,Chloe Smith,2025-11-05,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,3,48.0,122.4,0.15,Apple Pay,In-Store POS,San Francisco,North America,Female,31
+TX-10618,CUST-1126,Henry Jackson,2026-02-04,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,198.0,0.1,PayPal,Online Web,New York,North America,Non-Binary,33
+TX-10526,CUST-1110,Chloe Johnson,2026-02-08,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,76.0,0.0,Credit Card,Online Web,Paris,Europe,Female,62
+TX-10287,CUST-1060,Alexander Davis,2026-01-30,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,80.0,0.0,PayPal,Mobile App,Berlin,Europe,Non-Binary,52
+TX-10038,CUST-1005,James Miller,2026-01-28,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,360.0,0.0,Debit Card,Mobile App,Toronto,North America,Male,38
+TX-10083,CUST-1016,Matthew Martinez,2025-07-30,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,Apple Pay,Online Web,London,Europe,Non-Binary,52
+TX-10410,CUST-1086,Aria Martinez,2025-08-15,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,PayPal,Mobile App,San Francisco,North America,Female,64
+TX-10166,CUST-1035,Alexander Williams,2025-08-26,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,360.0,0.0,Bank Transfer,Mobile App,Singapore,Asia-Pacific,Female,38
+TX-10219,CUST-1047,Emma Thompson,2025-07-30,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,33.25,0.05,PayPal,In-Store POS,Singapore,Asia-Pacific,Female,68
+TX-10142,CUST-1027,James Brown,2025-11-26,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,131.0,0.0,Bank Transfer,In-Store POS,Paris,Europe,Male,36
+TX-10682,CUST-1142,Mia Martin,2026-01-31,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,28.0,0.0,Apple Pay,In-Store POS,Toronto,North America,Male,49
+TX-10039,CUST-1005,James Miller,2026-03-03,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,PayPal,In-Store POS,Toronto,North America,Male,38
+TX-10240,CUST-1050,Mia Taylor,2025-12-23,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,33.25,0.05,Debit Card,Online Web,San Francisco,North America,Non-Binary,36
+TX-10532,CUST-1112,Mia Jones,2025-10-05,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Bank Transfer,In-Store POS,Sydney,Asia-Pacific,Non-Binary,28
+TX-10427,CUST-1089,Sebastian Moore,2025-11-16,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Debit Card,In-Store POS,Toronto,North America,Female,30
+TX-10295,CUST-1061,Emma Williams,2026-03-09,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,45.6,0.05,Apple Pay,In-Store POS,Toronto,North America,Male,23
+TX-10057,CUST-1009,Aria Anderson,2025-08-14,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,58.0,0.0,Debit Card,Online Web,Tokyo,Asia-Pacific,Female,66
+TX-10095,CUST-1017,Jack Jones,2025-10-27,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,27.55,0.05,Apple Pay,Mobile App,Berlin,Europe,Female,36
+TX-10643,CUST-1132,Alexander Brown,2026-03-03,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,76.0,0.0,Bank Transfer,Mobile App,Singapore,Asia-Pacific,Non-Binary,32
+TX-10583,CUST-1119,Luna Moore,2025-09-24,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,42.75,0.05,Debit Card,Mobile App,San Francisco,North America,Male,44
+TX-10650,CUST-1134,Sophia Davis,2025-08-18,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Debit Card,Online Web,Berlin,Europe,Female,44
+TX-10045,CUST-1006,Alexander Brown,2025-12-22,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,24.65,0.15,Bank Transfer,Mobile App,San Francisco,North America,Male,27
+TX-10062,CUST-1009,Aria Anderson,2026-02-15,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,Debit Card,Mobile App,Tokyo,Asia-Pacific,Female,66
+TX-10591,CUST-1122,Matthew Rodriguez,2025-11-04,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,2,22.0,39.6,0.1,Apple Pay,Mobile App,Paris,Europe,Female,26
+TX-10595,CUST-1123,Jack Garcia,2025-09-10,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,26.6,0.05,Bank Transfer,Online Web,Sydney,Asia-Pacific,Non-Binary,60
+TX-10696,CUST-1144,Sophia Davis,2025-03-19,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,2,48.0,76.8,0.2,PayPal,Mobile App,London,Europe,Male,63
+TX-10048,CUST-1007,Harper White,2026-01-20,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,3,24.5,69.83,0.05,Credit Card,Mobile App,Berlin,Europe,Female,67
+TX-10013,CUST-1002,Sophia Jackson,2025-03-31,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,67.5,0.1,Debit Card,Mobile App,San Francisco,North America,Non-Binary,48
+TX-10506,CUST-1106,Sebastian Thompson,2025-11-15,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,3,40.0,120.0,0.0,Bank Transfer,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10099,CUST-1018,Chloe Rodriguez,2025-11-14,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,22.52,0.15,Apple Pay,In-Store POS,Tokyo,Asia-Pacific,Male,58
+TX-10539,CUST-1113,Lucas Hernandez,2025-05-19,PROD-EL05,Portable Bluetooth Speaker,Electronics,3,59.99,179.97,0.0,PayPal,Online Web,Berlin,Europe,Male,31
+TX-10146,CUST-1028,Matthew Williams,2025-06-13,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,40.8,0.15,Bank Transfer,In-Store POS,San Francisco,North America,Non-Binary,52
+TX-10560,CUST-1115,Evelyn Thompson,2025-08-22,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,2,28.0,47.6,0.15,Credit Card,Online Web,Toronto,North America,Male,66
+TX-10180,CUST-1037,Mia Moore,2025-12-06,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,2,42.0,79.8,0.05,Debit Card,Mobile App,Toronto,North America,Female,27
+TX-10613,CUST-1126,Henry Jackson,2025-07-01,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,114.0,0.05,Bank Transfer,In-Store POS,New York,North America,Non-Binary,33
+TX-10054,CUST-1009,Aria Anderson,2025-06-21,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,Debit Card,Mobile App,Tokyo,Asia-Pacific,Female,66
+TX-10269,CUST-1058,Chloe Wilson,2025-03-31,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,90.25,0.05,Debit Card,In-Store POS,San Francisco,North America,Female,37
+TX-10654,CUST-1134,Sophia Davis,2026-02-01,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Bank Transfer,Online Web,Berlin,Europe,Female,44
+TX-10514,CUST-1108,Alexander Davis,2025-07-26,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,27.55,0.05,Debit Card,Online Web,Sydney,Asia-Pacific,Male,42
+TX-10352,CUST-1075,Henry Johnson,2026-01-09,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,PayPal,In-Store POS,San Francisco,North America,Non-Binary,48
+TX-10035,CUST-1004,Lucas Jackson,2026-02-22,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,40.5,0.1,PayPal,In-Store POS,Toronto,North America,Female,49
+TX-10005,CUST-1001,Sophia Smith,2025-07-08,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,332.02,0.05,Apple Pay,In-Store POS,Berlin,Europe,Female,35
+TX-10459,CUST-1098,Oliver Jones,2025-07-18,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,110.0,0.0,Debit Card,Mobile App,Chicago,North America,Female,45
+TX-10722,CUST-1148,Matthew Davis,2025-10-07,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,179.99,0.1,PayPal,In-Store POS,Toronto,North America,Female,55
+TX-10161,CUST-1032,Jack Martin,2026-02-13,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,26.5,0.0,Credit Card,Mobile App,Sydney,Asia-Pacific,Female,36
+TX-10691,CUST-1143,Matthew Thomas,2025-11-20,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,26.5,0.0,Debit Card,Online Web,Berlin,Europe,Non-Binary,60
+TX-10173,CUST-1037,Mia Moore,2025-03-23,PROD-EL05,Portable Bluetooth Speaker,Electronics,3,59.99,179.97,0.0,Credit Card,Mobile App,Toronto,North America,Female,27
+TX-10267,CUST-1057,Jack Jackson,2026-02-12,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,2,28.0,53.2,0.05,Debit Card,In-Store POS,Berlin,Europe,Non-Binary,62
+TX-10601,CUST-1124,Alexander Smith,2026-02-02,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,4,22.0,88.0,0.0,PayPal,Online Web,Sydney,Asia-Pacific,Male,32
+TX-10567,CUST-1116,Matthew Garcia,2025-05-26,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,PayPal,In-Store POS,San Francisco,North America,Non-Binary,40
+TX-10124,CUST-1025,Evelyn Martin,2026-02-09,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,26.1,0.1,Credit Card,In-Store POS,Tokyo,Asia-Pacific,Female,30
+TX-10237,CUST-1049,Daniel Williams,2026-01-23,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,2,26.5,53.0,0.0,PayPal,Online Web,Chicago,North America,Female,59
+TX-10579,CUST-1118,Harper Williams,2026-01-04,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,Bank Transfer,Mobile App,Singapore,Asia-Pacific,Non-Binary,42
+TX-10300,CUST-1064,William Jackson,2025-09-20,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,25.2,0.1,Apple Pay,In-Store POS,New York,North America,Male,58
+TX-10568,CUST-1117,Aria Brown,2026-01-24,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Bank Transfer,Online Web,Tokyo,Asia-Pacific,Female,43
+TX-10051,CUST-1008,Sophia Taylor,2025-06-18,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,2,75.0,142.5,0.05,Bank Transfer,Online Web,San Francisco,North America,Non-Binary,39
+TX-10137,CUST-1027,James Brown,2025-05-09,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,3,95.0,285.0,0.0,Apple Pay,In-Store POS,Paris,Europe,Male,36
+TX-10139,CUST-1027,James Brown,2025-07-21,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,2,349.5,699.0,0.0,Debit Card,Online Web,Paris,Europe,Male,36
+TX-10172,CUST-1036,Lucas Jackson,2026-01-22,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,4,38.0,136.8,0.1,Bank Transfer,In-Store POS,Chicago,North America,Non-Binary,57
+TX-10531,CUST-1111,Emma Smith,2025-11-27,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,104.5,0.05,Debit Card,Mobile App,London,Europe,Female,22
+TX-10603,CUST-1125,Harper Rodriguez,2025-07-03,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,Credit Card,Online Web,Paris,Europe,Male,59
+TX-10670,CUST-1139,Sebastian Moore,2025-07-31,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,Bank Transfer,Online Web,San Francisco,North America,Non-Binary,61
+TX-10222,CUST-1047,Emma Thompson,2025-11-11,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,2,26.5,53.0,0.0,PayPal,Mobile App,Singapore,Asia-Pacific,Female,68
+TX-10182,CUST-1037,Mia Moore,2026-03-13,PROD-EL05,Portable Bluetooth Speaker,Electronics,2,59.99,119.98,0.0,Debit Card,Mobile App,Toronto,North America,Female,27
+TX-10528,CUST-1111,Emma Smith,2025-08-26,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,53.99,0.1,Bank Transfer,Mobile App,London,Europe,Female,22
+TX-10362,CUST-1077,Matthew Davis,2026-01-07,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,25.17,0.05,PayPal,In-Store POS,Berlin,Europe,Female,66
+TX-10050,CUST-1008,Sophia Taylor,2025-04-24,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,PayPal,In-Store POS,San Francisco,North America,Non-Binary,39
+TX-10022,CUST-1002,Sophia Jackson,2026-01-20,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,Credit Card,Mobile App,San Francisco,North America,Non-Binary,48
+TX-10495,CUST-1104,Ella Smith,2025-10-23,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,4,26.5,106.0,0.0,PayPal,In-Store POS,Toronto,North America,Male,63
+TX-10723,CUST-1148,Matthew Davis,2025-10-22,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,PayPal,Online Web,Toronto,North America,Female,55
+TX-10348,CUST-1074,Chloe Martinez,2026-01-13,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,26.6,0.05,Debit Card,In-Store POS,New York,North America,Female,37
+TX-10196,CUST-1042,Oliver Hernandez,2025-08-21,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,28.0,0.0,Apple Pay,Mobile App,Singapore,Asia-Pacific,Female,24
+TX-10662,CUST-1136,Chloe Wilson,2026-01-18,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,Credit Card,In-Store POS,Chicago,North America,Non-Binary,52
+TX-10534,CUST-1112,Mia Jones,2025-12-28,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,PayPal,In-Store POS,Sydney,Asia-Pacific,Non-Binary,28
+TX-10007,CUST-1001,Sophia Smith,2025-09-09,PROD-EL04,USB-C Fast Charging Hub,Electronics,2,39.99,71.98,0.1,Credit Card,In-Store POS,Berlin,Europe,Female,35
+TX-10640,CUST-1132,Alexander Brown,2025-10-08,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,45.6,0.05,Credit Card,Mobile App,Singapore,Asia-Pacific,Non-Binary,32
+TX-10272,CUST-1058,Chloe Wilson,2025-08-02,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,38.0,0.05,Debit Card,Mobile App,San Francisco,North America,Female,37
+TX-10388,CUST-1081,Evelyn Jackson,2025-03-21,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,26.5,0.0,PayPal,Mobile App,Chicago,North America,Female,47
+TX-10672,CUST-1139,Sebastian Moore,2025-09-25,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,63.75,0.15,Bank Transfer,Online Web,San Francisco,North America,Non-Binary,61
+TX-10434,CUST-1094,Daniel Thomas,2025-04-11,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,4,85.0,289.0,0.15,Debit Card,Online Web,Singapore,Asia-Pacific,Male,31
+TX-10200,CUST-1043,Chloe Smith,2025-11-30,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,PayPal,Mobile App,San Francisco,North America,Female,31
+TX-10350,CUST-1074,Chloe Martinez,2026-03-05,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,PayPal,Online Web,New York,North America,Female,37
+TX-10195,CUST-1042,Oliver Hernandez,2025-07-12,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,Credit Card,Online Web,Singapore,Asia-Pacific,Female,24
+TX-10120,CUST-1024,Henry Martin,2025-10-06,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,3,35.0,99.75,0.05,Bank Transfer,In-Store POS,Chicago,North America,Non-Binary,27
+TX-10273,CUST-1058,Chloe Wilson,2025-09-29,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,32.0,0.0,Bank Transfer,In-Store POS,San Francisco,North America,Female,37
+TX-10680,CUST-1142,Mia Martin,2025-11-22,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Debit Card,In-Store POS,Toronto,North America,Male,49
+TX-10155,CUST-1031,Chloe Davis,2025-11-24,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,Bank Transfer,Online Web,Berlin,Europe,Male,63
+TX-10244,CUST-1051,Emma White,2025-12-19,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,Credit Card,In-Store POS,San Francisco,North America,Male,63
+TX-10205,CUST-1044,Ella Davis,2025-12-19,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,2,349.5,699.0,0.0,Bank Transfer,Mobile App,Toronto,North America,Female,31
+TX-10663,CUST-1136,Chloe Wilson,2026-03-04,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,36.1,0.05,PayPal,Online Web,Chicago,North America,Non-Binary,52
+TX-10377,CUST-1079,Alexander White,2025-05-24,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,90.0,0.0,Apple Pay,Online Web,Paris,Europe,Non-Binary,28
+TX-10430,CUST-1092,Sophia Hernandez,2025-12-11,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,2,24.5,49.0,0.0,Apple Pay,In-Store POS,Chicago,North America,Male,63
+TX-10060,CUST-1009,Aria Anderson,2025-11-27,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Credit Card,In-Store POS,Tokyo,Asia-Pacific,Female,66
+TX-10136,CUST-1027,James Brown,2025-04-20,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,4,110.0,440.0,0.0,PayPal,Mobile App,Paris,Europe,Male,36
+TX-10735,CUST-1150,Evelyn White,2025-10-20,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,Bank Transfer,Mobile App,Tokyo,Asia-Pacific,Male,49
+TX-10584,CUST-1120,Jack Jones,2025-10-20,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,4,28.0,106.4,0.05,Debit Card,Mobile App,Toronto,North America,Female,67
+TX-10177,CUST-1037,Mia Moore,2025-07-31,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,3,38.0,114.0,0.0,Bank Transfer,Mobile App,Toronto,North America,Female,27
+TX-10508,CUST-1106,Sebastian Thompson,2026-01-20,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,28.8,0.1,Debit Card,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10108,CUST-1020,Sophia Jones,2026-01-26,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,PayPal,In-Store POS,Chicago,North America,Non-Binary,48
+TX-10550,CUST-1114,Sophia Miller,2025-06-23,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Debit Card,In-Store POS,Berlin,Europe,Female,58
+TX-10711,CUST-1145,Mia Miller,2025-10-12,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,Apple Pay,Online Web,Singapore,Asia-Pacific,Female,31
+TX-10372,CUST-1078,Daniel Jackson,2025-12-28,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,42.75,0.05,Credit Card,Mobile App,London,Europe,Male,48
+TX-10226,CUST-1048,Emma Thompson,2025-10-25,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,23.8,0.15,Apple Pay,Mobile App,Sydney,Asia-Pacific,Non-Binary,54
+TX-10737,CUST-1150,Evelyn White,2026-01-04,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,131.0,0.0,Bank Transfer,Online Web,Tokyo,Asia-Pacific,Male,49
+TX-10122,CUST-1025,Evelyn Martin,2025-12-09,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,2,75.0,135.0,0.1,Apple Pay,Online Web,Tokyo,Asia-Pacific,Female,30
+TX-10197,CUST-1042,Oliver Hernandez,2025-10-15,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,2,28.0,44.8,0.2,Apple Pay,In-Store POS,Singapore,Asia-Pacific,Female,24
+TX-10715,CUST-1145,Mia Miller,2026-02-16,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,2,28.0,56.0,0.0,Credit Card,Online Web,Singapore,Asia-Pacific,Female,31
+TX-10254,CUST-1054,Jack Martinez,2025-07-21,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,2,28.0,53.2,0.05,Debit Card,Mobile App,San Francisco,North America,Female,50
+TX-10079,CUST-1014,Chloe Garcia,2025-03-24,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,42.75,0.05,Apple Pay,Online Web,Paris,Europe,Female,35
+TX-10305,CUST-1065,Luna Jones,2025-06-03,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,39.99,0.0,Apple Pay,Mobile App,New York,North America,Male,44
+TX-10075,CUST-1012,Henry Williams,2025-12-05,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,Bank Transfer,Mobile App,Tokyo,Asia-Pacific,Non-Binary,31
+TX-10044,CUST-1006,Alexander Brown,2025-12-02,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Bank Transfer,Online Web,San Francisco,North America,Male,27
+TX-10462,CUST-1099,Lucas Williams,2025-08-25,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Credit Card,In-Store POS,Toronto,North America,Male,42
+TX-10535,CUST-1112,Mia Jones,2026-02-23,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Credit Card,Online Web,Sydney,Asia-Pacific,Non-Binary,28
+TX-10271,CUST-1058,Chloe Wilson,2025-06-17,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,2,199.99,379.98,0.05,Apple Pay,Online Web,San Francisco,North America,Female,37
+TX-10590,CUST-1121,Henry White,2026-02-10,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,190.0,0.0,PayPal,Mobile App,Singapore,Asia-Pacific,Male,50
+TX-10422,CUST-1089,Sebastian Moore,2025-05-19,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,Bank Transfer,In-Store POS,Toronto,North America,Female,30
+TX-10726,CUST-1148,Matthew Davis,2026-02-19,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,PayPal,Online Web,Toronto,North America,Female,55
+TX-10713,CUST-1145,Mia Miller,2026-01-05,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,159.99,0.2,PayPal,In-Store POS,Singapore,Asia-Pacific,Female,31
+TX-10727,CUST-1149,William Rodriguez,2025-07-06,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,28.0,0.0,Bank Transfer,Mobile App,Chicago,North America,Female,24
+TX-10405,CUST-1085,Daniel Moore,2025-08-25,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,68.0,0.15,Apple Pay,Mobile App,Chicago,North America,Non-Binary,26
+TX-10190,CUST-1040,Sophia Garcia,2025-12-17,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,3,26.5,63.6,0.2,Apple Pay,Online Web,London,Europe,Female,55
+TX-10229,CUST-1048,Emma Thompson,2026-01-10,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,360.0,0.0,Bank Transfer,In-Store POS,Sydney,Asia-Pacific,Non-Binary,54
+TX-10338,CUST-1071,Jack Anderson,2025-11-17,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,95.0,0.0,Apple Pay,Mobile App,Berlin,Europe,Female,35
+TX-10078,CUST-1013,Mia Miller,2026-03-04,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,31.5,0.1,PayPal,Online Web,Sydney,Asia-Pacific,Male,38
+TX-10565,CUST-1116,Matthew Garcia,2025-04-04,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,PayPal,In-Store POS,San Francisco,North America,Non-Binary,40
+TX-10303,CUST-1064,William Jackson,2026-02-01,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,PayPal,In-Store POS,New York,North America,Male,58
+TX-10090,CUST-1017,Jack Jones,2025-04-10,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,28.8,0.1,Credit Card,In-Store POS,Berlin,Europe,Female,36
+TX-10631,CUST-1129,Mia Wilson,2026-02-14,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,2,75.0,150.0,0.0,PayPal,Mobile App,Tokyo,Asia-Pacific,Male,51
+TX-10533,CUST-1112,Mia Jones,2025-11-28,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,3,28.0,84.0,0.0,Debit Card,Online Web,Sydney,Asia-Pacific,Non-Binary,28
+TX-10510,CUST-1107,Luna Jones,2025-11-15,PROD-EL05,Portable Bluetooth Speaker,Electronics,2,59.99,101.98,0.15,Debit Card,Mobile App,Sydney,Asia-Pacific,Female,24
+TX-10515,CUST-1109,Sebastian Rodriguez,2025-10-20,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,93.5,0.15,Apple Pay,Online Web,Toronto,North America,Male,26
+TX-10132,CUST-1027,James Brown,2025-03-21,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,2,349.5,664.05,0.05,Debit Card,Online Web,Paris,Europe,Male,36
+TX-10529,CUST-1111,Emma Smith,2025-09-14,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,3,28.0,79.8,0.05,Bank Transfer,In-Store POS,London,Europe,Female,22
+TX-10486,CUST-1103,Chloe White,2026-01-07,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,42.75,0.05,Credit Card,Mobile App,London,Europe,Male,35
+TX-10598,CUST-1124,Alexander Smith,2025-09-05,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,190.0,0.0,PayPal,Mobile App,Sydney,Asia-Pacific,Male,32
+TX-10641,CUST-1132,Alexander Brown,2025-11-16,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,90.0,0.0,PayPal,In-Store POS,Singapore,Asia-Pacific,Non-Binary,32
+TX-10130,CUST-1026,Ava Jackson,2026-01-29,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,Credit Card,Mobile App,Singapore,Asia-Pacific,Female,59
+TX-10630,CUST-1129,Mia Wilson,2026-01-07,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,4,120.0,432.0,0.1,Apple Pay,Mobile App,Tokyo,Asia-Pacific,Male,51
+TX-10439,CUST-1094,Daniel Thomas,2025-08-22,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Credit Card,Mobile App,Singapore,Asia-Pacific,Male,31
+TX-10472,CUST-1101,Matthew Smith,2025-06-18,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,2,35.0,63.0,0.1,Apple Pay,In-Store POS,Tokyo,Asia-Pacific,Male,51
+TX-10259,CUST-1055,Matthew Brown,2026-01-16,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,Debit Card,Online Web,San Francisco,North America,Non-Binary,34
+TX-10065,CUST-1010,Mia Wilson,2025-12-28,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,29.75,0.15,Debit Card,In-Store POS,San Francisco,North America,Female,27
+TX-10043,CUST-1006,Alexander Brown,2025-10-23,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Credit Card,Online Web,San Francisco,North America,Male,27
+TX-10249,CUST-1053,Mia Rodriguez,2025-06-22,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,162.0,0.1,Credit Card,In-Store POS,Toronto,North America,Female,63
+TX-10147,CUST-1029,Chloe Jones,2026-02-23,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,55.67,0.15,Credit Card,Online Web,Chicago,North America,Non-Binary,51
+TX-10014,CUST-1002,Sophia Jackson,2025-04-07,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,360.0,0.0,Apple Pay,In-Store POS,San Francisco,North America,Non-Binary,48
+TX-10679,CUST-1142,Mia Martin,2025-10-07,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,342.0,0.05,Debit Card,Online Web,Toronto,North America,Male,49
+TX-10378,CUST-1079,Alexander White,2025-07-20,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,3,75.0,191.25,0.15,Debit Card,In-Store POS,Paris,Europe,Non-Binary,28
+TX-10415,CUST-1086,Aria Martinez,2026-01-29,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,80.75,0.05,Credit Card,In-Store POS,San Francisco,North America,Female,64
+TX-10150,CUST-1031,Chloe Davis,2025-05-25,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,26.6,0.05,Bank Transfer,Mobile App,Berlin,Europe,Male,63
+TX-10337,CUST-1071,Jack Anderson,2025-10-26,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,33.99,0.15,PayPal,Online Web,Berlin,Europe,Female,35
+TX-10027,CUST-1003,Oliver Davis,2025-08-13,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,62.22,0.05,Debit Card,In-Store POS,London,Europe,Non-Binary,59
+TX-10454,CUST-1096,Daniel Moore,2026-03-14,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,3,26.5,71.55,0.1,Credit Card,In-Store POS,London,Europe,Male,49
+TX-10530,CUST-1111,Emma Smith,2025-10-03,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,26.5,0.0,Bank Transfer,In-Store POS,London,Europe,Female,22
+TX-10717,CUST-1146,Jack White,2025-11-17,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,39.9,0.05,PayPal,In-Store POS,Sydney,Asia-Pacific,Male,23
+TX-10513,CUST-1107,Luna Jones,2026-03-02,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,3,89.0,267.0,0.0,Apple Pay,In-Store POS,Sydney,Asia-Pacific,Female,24
+TX-10476,CUST-1101,Matthew Smith,2025-11-08,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,26.6,0.05,PayPal,Online Web,Tokyo,Asia-Pacific,Male,51
+TX-10685,CUST-1143,Matthew Thomas,2025-04-07,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,198.0,0.1,Debit Card,Mobile App,Berlin,Europe,Non-Binary,60
+TX-10697,CUST-1144,Sophia Davis,2025-03-24,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,3,29.0,78.3,0.1,Apple Pay,Mobile App,London,Europe,Male,63
+TX-10559,CUST-1115,Evelyn Thompson,2025-07-02,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,144.5,0.15,Credit Card,In-Store POS,Toronto,North America,Male,66
+TX-10657,CUST-1136,Chloe Wilson,2025-05-22,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,80.1,0.1,Debit Card,Online Web,Chicago,North America,Non-Binary,52
+TX-10658,CUST-1136,Chloe Wilson,2025-07-12,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,3,45.0,128.25,0.05,Debit Card,Online Web,Chicago,North America,Non-Binary,52
+TX-10156,CUST-1032,Jack Martin,2025-08-12,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,Apple Pay,Mobile App,Sydney,Asia-Pacific,Female,36
+TX-10384,CUST-1080,Evelyn Martin,2025-11-23,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Debit Card,In-Store POS,Berlin,Europe,Non-Binary,47
+TX-10306,CUST-1066,Emma Anderson,2025-05-17,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,2,35.0,70.0,0.0,Debit Card,Online Web,London,Europe,Non-Binary,36
+TX-10356,CUST-1076,Alexander Thomas,2025-10-15,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,2,199.99,319.98,0.2,PayPal,Online Web,Tokyo,Asia-Pacific,Non-Binary,28
+TX-10019,CUST-1002,Sophia Jackson,2025-09-20,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,4,28.0,112.0,0.0,Bank Transfer,Mobile App,San Francisco,North America,Non-Binary,48
+TX-10086,CUST-1016,Matthew Martinez,2026-01-03,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,PayPal,In-Store POS,London,Europe,Non-Binary,52
+TX-10149,CUST-1031,Chloe Davis,2025-04-23,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,120.0,0.0,PayPal,In-Store POS,Berlin,Europe,Male,63
+TX-10586,CUST-1120,Jack Jones,2026-01-05,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,2,24.5,49.0,0.0,Apple Pay,Online Web,Toronto,North America,Female,67
+TX-10468,CUST-1101,Matthew Smith,2025-03-19,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,67.5,0.1,Debit Card,Online Web,Tokyo,Asia-Pacific,Male,51
+TX-10599,CUST-1124,Alexander Smith,2025-10-29,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,120.0,0.0,Apple Pay,In-Store POS,Sydney,Asia-Pacific,Male,32
+TX-10216,CUST-1046,Chloe Moore,2025-11-29,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,2,349.5,699.0,0.0,PayPal,In-Store POS,Chicago,North America,Female,39
+TX-10170,CUST-1036,Lucas Jackson,2025-10-18,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,43.2,0.1,Apple Pay,Mobile App,Chicago,North America,Non-Binary,57
+TX-10376,CUST-1079,Alexander White,2025-04-14,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,30.4,0.2,Bank Transfer,Mobile App,Paris,Europe,Non-Binary,28
+TX-10732,CUST-1149,William Rodriguez,2026-02-12,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,72.0,0.1,Apple Pay,In-Store POS,Chicago,North America,Female,24
+TX-10580,CUST-1118,Harper Williams,2026-02-25,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Debit Card,In-Store POS,Singapore,Asia-Pacific,Non-Binary,42
+TX-10263,CUST-1056,William Anderson,2026-01-13,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,20.82,0.15,Debit Card,Mobile App,San Francisco,North America,Female,44
+TX-10233,CUST-1049,Daniel Williams,2025-09-03,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,23.8,0.15,Apple Pay,Mobile App,Chicago,North America,Female,59
+TX-10557,CUST-1114,Sophia Miller,2026-01-21,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,24.5,0.0,Apple Pay,In-Store POS,Berlin,Europe,Female,58
+TX-10006,CUST-1001,Sophia Smith,2025-07-28,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,Apple Pay,Mobile App,Berlin,Europe,Female,35
+TX-10676,CUST-1141,Sophia Jackson,2025-03-30,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,84.55,0.05,Credit Card,Online Web,Toronto,North America,Non-Binary,59
+TX-10274,CUST-1058,Chloe Wilson,2025-11-09,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,20.9,0.05,Debit Card,Mobile App,San Francisco,North America,Female,37
+TX-10705,CUST-1144,Sophia Davis,2025-11-30,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,43.2,0.1,Apple Pay,In-Store POS,London,Europe,Male,63
+TX-10463,CUST-1099,Lucas Williams,2025-10-07,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,3,28.0,84.0,0.0,Debit Card,Mobile App,Toronto,North America,Male,42
+TX-10028,CUST-1003,Oliver Davis,2025-09-25,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,3,28.0,84.0,0.0,Debit Card,In-Store POS,London,Europe,Non-Binary,59
+TX-10314,CUST-1067,Harper Jackson,2025-10-25,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,90.0,0.0,Apple Pay,Online Web,Toronto,North America,Non-Binary,68
+TX-10160,CUST-1032,Jack Martin,2026-01-07,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Debit Card,In-Store POS,Sydney,Asia-Pacific,Female,36
+TX-10297,CUST-1062,William Rodriguez,2026-01-03,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,33.99,0.15,Credit Card,Mobile App,Chicago,North America,Non-Binary,49
+TX-10409,CUST-1085,Daniel Moore,2026-01-29,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,31.5,0.1,Apple Pay,Mobile App,Chicago,North America,Non-Binary,26
+TX-10277,CUST-1058,Chloe Wilson,2026-02-28,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,120.0,0.0,PayPal,In-Store POS,San Francisco,North America,Female,37
+TX-10577,CUST-1118,Harper Williams,2025-10-22,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,Bank Transfer,Mobile App,Singapore,Asia-Pacific,Non-Binary,42
+TX-10612,CUST-1126,Henry Jackson,2025-05-13,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,23.85,0.1,Debit Card,Mobile App,New York,North America,Non-Binary,33
+TX-10040,CUST-1006,Alexander Brown,2025-07-20,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,35.99,0.1,Apple Pay,In-Store POS,San Francisco,North America,Male,27
+TX-10343,CUST-1072,Lucas Taylor,2026-02-27,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,4,24.5,78.4,0.2,PayPal,In-Store POS,Paris,Europe,Male,25
+TX-10340,CUST-1071,Jack Anderson,2026-01-18,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,4,45.0,144.0,0.2,Credit Card,Mobile App,Berlin,Europe,Female,35
+TX-10380,CUST-1079,Alexander White,2025-10-26,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,3,40.0,120.0,0.0,Credit Card,Online Web,Paris,Europe,Non-Binary,28
+TX-10323,CUST-1069,Alexander Thomas,2025-07-09,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,30.4,0.05,Credit Card,In-Store POS,London,Europe,Male,31
+TX-10610,CUST-1126,Henry Jackson,2025-04-07,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,2,35.0,63.0,0.1,Bank Transfer,Online Web,New York,North America,Non-Binary,33
+TX-10126,CUST-1026,Ava Jackson,2025-11-02,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,297.07,0.15,Credit Card,In-Store POS,Singapore,Asia-Pacific,Female,59
+TX-10046,CUST-1006,Alexander Brown,2026-01-29,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,3,28.0,79.8,0.05,Debit Card,In-Store POS,San Francisco,North America,Male,27
+TX-10313,CUST-1067,Harper Jackson,2025-08-30,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,199.99,0.0,PayPal,In-Store POS,Toronto,North America,Non-Binary,68
+TX-10600,CUST-1124,Alexander Smith,2025-12-23,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,3,38.0,102.6,0.1,Apple Pay,In-Store POS,Sydney,Asia-Pacific,Male,32
+TX-10268,CUST-1058,Chloe Wilson,2025-03-23,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,198.0,0.1,Credit Card,Mobile App,San Francisco,North America,Female,37
+TX-10621,CUST-1127,Luna Moore,2025-12-28,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Apple Pay,Mobile App,Singapore,Asia-Pacific,Female,65
+TX-10659,CUST-1136,Chloe Wilson,2025-09-09,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,23.27,0.05,PayPal,Mobile App,Chicago,North America,Non-Binary,52
+TX-10239,CUST-1050,Mia Taylor,2025-11-04,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,90.25,0.05,Apple Pay,In-Store POS,San Francisco,North America,Non-Binary,36
+TX-10144,CUST-1027,James Brown,2026-01-19,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,80.1,0.1,Debit Card,In-Store POS,Paris,Europe,Male,36
+TX-10399,CUST-1084,Aria Martinez,2025-07-29,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,56.99,0.05,Bank Transfer,In-Store POS,Sydney,Asia-Pacific,Male,49
+TX-10385,CUST-1080,Evelyn Martin,2025-12-21,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,58.95,0.1,Credit Card,Mobile App,Berlin,Europe,Non-Binary,47
+TX-10440,CUST-1094,Daniel Thomas,2025-09-25,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,28.0,0.0,PayPal,Online Web,Singapore,Asia-Pacific,Male,31
+TX-10270,CUST-1058,Chloe Wilson,2025-05-25,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,2,89.0,160.2,0.1,Bank Transfer,In-Store POS,San Francisco,North America,Female,37
+TX-10375,CUST-1079,Alexander White,2025-03-19,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,33.6,0.2,Debit Card,In-Store POS,Paris,Europe,Non-Binary,28
+TX-10374,CUST-1078,Daniel Jackson,2026-03-02,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,179.99,0.1,PayPal,Online Web,London,Europe,Male,48
+TX-10666,CUST-1137,James Thompson,2026-01-19,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,39.99,0.0,Apple Pay,Mobile App,Berlin,Europe,Male,51
+TX-10041,CUST-1006,Alexander Brown,2025-09-07,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Credit Card,In-Store POS,San Francisco,North America,Male,27
+TX-10354,CUST-1075,Henry Johnson,2026-02-24,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,4,349.5,1398.0,0.0,Credit Card,In-Store POS,San Francisco,North America,Non-Binary,48
+TX-10493,CUST-1104,Ella Smith,2025-08-09,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,2,199.99,399.98,0.0,Debit Card,Online Web,Toronto,North America,Male,63
+TX-10247,CUST-1052,Daniel Martinez,2025-10-07,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,24.5,0.0,Apple Pay,Online Web,Berlin,Europe,Female,63
+TX-10298,CUST-1062,William Rodriguez,2026-01-20,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,314.55,0.1,Apple Pay,In-Store POS,Chicago,North America,Non-Binary,49
+TX-10058,CUST-1009,Aria Anderson,2025-10-10,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,Apple Pay,In-Store POS,Tokyo,Asia-Pacific,Female,66
+TX-10189,CUST-1039,Emma Brown,2026-02-03,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,25.2,0.1,Credit Card,Online Web,New York,North America,Male,67
+TX-10361,CUST-1077,Matthew Davis,2025-11-29,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,22.52,0.15,Apple Pay,Mobile App,Berlin,Europe,Female,66
+TX-10248,CUST-1052,Daniel Martinez,2025-10-24,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,40.5,0.1,Debit Card,Online Web,Berlin,Europe,Female,63
+TX-10708,CUST-1145,Mia Miller,2025-06-29,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,2,48.0,91.2,0.05,Debit Card,Online Web,Singapore,Asia-Pacific,Female,31
+TX-10020,CUST-1002,Sophia Jackson,2025-11-15,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,33.99,0.15,Credit Card,In-Store POS,San Francisco,North America,Non-Binary,48
+TX-10501,CUST-1106,Sebastian Thompson,2025-04-25,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,3,110.0,313.5,0.05,Debit Card,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10018,CUST-1002,Sophia Jackson,2025-08-27,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,153.0,0.1,Debit Card,In-Store POS,San Francisco,North America,Non-Binary,48
+TX-10656,CUST-1136,Chloe Wilson,2025-05-01,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,162.0,0.1,Debit Card,Online Web,Chicago,North America,Non-Binary,52
+TX-10540,CUST-1113,Lucas Hernandez,2025-07-13,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Apple Pay,In-Store POS,Berlin,Europe,Male,31
+TX-10725,CUST-1148,Matthew Davis,2025-12-21,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,360.0,0.0,Apple Pay,Mobile App,Toronto,North America,Female,55
+TX-10604,CUST-1125,Harper Rodriguez,2025-08-29,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,23.27,0.05,Debit Card,Mobile App,Paris,Europe,Male,59
+TX-10578,CUST-1118,Harper Williams,2025-11-28,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,PayPal,Mobile App,Singapore,Asia-Pacific,Non-Binary,42
+TX-10276,CUST-1058,Chloe Wilson,2026-01-26,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,Credit Card,Online Web,San Francisco,North America,Female,37
+TX-10243,CUST-1051,Emma White,2025-10-21,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,2,120.0,216.0,0.1,Credit Card,Online Web,San Francisco,North America,Male,63
+TX-10511,CUST-1107,Luna Jones,2026-01-04,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,Credit Card,In-Store POS,Sydney,Asia-Pacific,Female,24
+TX-10008,CUST-1001,Sophia Smith,2025-10-25,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,95.0,0.0,Apple Pay,In-Store POS,Berlin,Europe,Female,35
+TX-10633,CUST-1130,Harper Thomas,2025-08-30,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Bank Transfer,In-Store POS,Singapore,Asia-Pacific,Male,43
+TX-10191,CUST-1040,Sophia Garcia,2026-01-26,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,Apple Pay,Mobile App,London,Europe,Female,55
+TX-10232,CUST-1049,Daniel Williams,2025-08-17,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Debit Card,In-Store POS,Chicago,North America,Female,59
+TX-10364,CUST-1078,Daniel Jackson,2025-03-22,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Bank Transfer,In-Store POS,London,Europe,Male,48
+TX-10544,CUST-1114,Sophia Miller,2025-03-18,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,190.0,0.0,Debit Card,In-Store POS,Berlin,Europe,Female,58
+TX-10461,CUST-1098,Oliver Jones,2025-10-07,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,4,75.0,270.0,0.1,Credit Card,Mobile App,Chicago,North America,Female,45
+TX-10435,CUST-1094,Daniel Thomas,2025-05-08,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,220.0,0.0,PayPal,Mobile App,Singapore,Asia-Pacific,Male,31
+TX-10522,CUST-1110,Chloe Johnson,2025-09-27,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,Bank Transfer,In-Store POS,Paris,Europe,Female,62
+TX-10466,CUST-1100,Luna Johnson,2026-02-25,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,36.0,0.1,Debit Card,Mobile App,London,Europe,Male,45
+TX-10185,CUST-1039,Emma Brown,2025-09-20,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Credit Card,Mobile App,New York,North America,Male,67
+TX-10436,CUST-1094,Daniel Thomas,2025-05-31,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,199.99,0.0,PayPal,In-Store POS,Singapore,Asia-Pacific,Male,31
+TX-10668,CUST-1138,Ava Johnson,2025-08-27,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,3,32.0,96.0,0.0,Apple Pay,Online Web,Berlin,Europe,Male,28
+TX-10426,CUST-1089,Sebastian Moore,2025-10-03,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,180.5,0.05,Credit Card,In-Store POS,Toronto,North America,Female,30
+TX-10141,CUST-1027,James Brown,2025-10-03,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,124.45,0.05,Credit Card,Online Web,Paris,Europe,Male,36
+TX-10087,CUST-1016,Matthew Martinez,2026-01-28,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,3,349.5,996.07,0.05,Debit Card,In-Store POS,London,Europe,Non-Binary,52
+TX-10140,CUST-1027,James Brown,2025-08-22,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,2,42.0,79.8,0.05,Apple Pay,Mobile App,Paris,Europe,Male,36
+TX-10448,CUST-1096,Daniel Moore,2025-08-04,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,2,32.0,64.0,0.0,Bank Transfer,In-Store POS,London,Europe,Male,49
+TX-10616,CUST-1126,Henry Jackson,2025-11-02,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,76.0,0.0,Apple Pay,Online Web,New York,North America,Non-Binary,33
+TX-10661,CUST-1136,Chloe Wilson,2025-12-23,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,Apple Pay,Mobile App,Chicago,North America,Non-Binary,52
+TX-10017,CUST-1002,Sophia Jackson,2025-07-12,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,38.25,0.15,Debit Card,Online Web,San Francisco,North America,Non-Binary,48
+TX-10074,CUST-1012,Henry Williams,2025-10-09,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,PayPal,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,31
+TX-10012,CUST-1002,Sophia Jackson,2025-03-29,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,28.0,0.0,Bank Transfer,In-Store POS,San Francisco,North America,Non-Binary,48
+TX-10138,CUST-1027,James Brown,2025-05-27,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,4,26.5,106.0,0.0,Debit Card,Online Web,Paris,Europe,Male,36
+TX-10129,CUST-1026,Ava Jackson,2026-01-02,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,324.0,0.1,Credit Card,Mobile App,Singapore,Asia-Pacific,Female,59
+TX-10296,CUST-1062,William Rodriguez,2025-11-21,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,4,28.0,112.0,0.0,PayPal,Mobile App,Chicago,North America,Non-Binary,49
+TX-10158,CUST-1032,Jack Martin,2025-11-05,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,4,26.5,90.1,0.15,Apple Pay,In-Store POS,Sydney,Asia-Pacific,Female,36
+TX-10428,CUST-1090,James Brown,2025-05-10,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,25.2,0.1,Bank Transfer,In-Store POS,Toronto,North America,Female,32
+TX-10369,CUST-1078,Daniel Jackson,2025-08-19,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,104.5,0.05,Apple Pay,In-Store POS,London,Europe,Male,48
+TX-10620,CUST-1126,Henry Jackson,2026-03-09,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,170.0,0.0,Credit Card,Online Web,New York,North America,Non-Binary,33
+TX-10193,CUST-1041,Luna Miller,2025-07-02,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,Apple Pay,In-Store POS,Berlin,Europe,Male,36
+TX-10684,CUST-1143,Matthew Thomas,2025-03-27,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,26.6,0.05,Credit Card,Online Web,Berlin,Europe,Non-Binary,60
+TX-10649,CUST-1134,Sophia Davis,2025-06-26,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,36.1,0.05,PayPal,Mobile App,Berlin,Europe,Female,44
+TX-10609,CUST-1126,Henry Jackson,2025-04-05,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,Debit Card,Mobile App,New York,North America,Non-Binary,33
+TX-10217,CUST-1046,Chloe Moore,2026-01-05,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,60.0,0.2,PayPal,In-Store POS,Chicago,North America,Female,39
+TX-10718,CUST-1146,Jack White,2025-12-09,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,159.99,0.2,Bank Transfer,Online Web,Sydney,Asia-Pacific,Male,23
+TX-10391,CUST-1081,Evelyn Jackson,2025-06-14,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,Bank Transfer,Mobile App,Chicago,North America,Female,47
+TX-10597,CUST-1123,Jack Garcia,2025-11-08,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,45.6,0.05,PayPal,Online Web,Sydney,Asia-Pacific,Non-Binary,60
+TX-10392,CUST-1081,Evelyn Jackson,2025-06-30,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Apple Pay,Online Web,Chicago,North America,Female,47
+TX-10326,CUST-1070,Sophia Taylor,2025-12-19,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,37.99,0.05,Bank Transfer,Mobile App,New York,North America,Male,35
+TX-10404,CUST-1085,Daniel Moore,2025-07-08,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,62.22,0.05,Credit Card,Online Web,Chicago,North America,Non-Binary,26
+TX-10443,CUST-1095,Ella Hernandez,2025-12-07,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,76.0,0.0,Debit Card,Online Web,Berlin,Europe,Female,61
+TX-10241,CUST-1050,Mia Taylor,2026-01-07,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,199.99,0.0,Bank Transfer,In-Store POS,San Francisco,North America,Non-Binary,36
+TX-10032,CUST-1003,Oliver Davis,2026-03-01,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,349.5,0.0,Apple Pay,In-Store POS,London,Europe,Non-Binary,59
+TX-10289,CUST-1061,Emma Williams,2025-07-04,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,PayPal,Mobile App,Toronto,North America,Male,23
+TX-10113,CUST-1021,Sebastian Taylor,2026-02-17,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Apple Pay,Online Web,Tokyo,Asia-Pacific,Male,54
+TX-10368,CUST-1078,Daniel Jackson,2025-07-20,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,68.0,0.15,Bank Transfer,Mobile App,London,Europe,Male,48
+TX-10587,CUST-1120,Jack Jones,2026-02-21,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,3,85.0,255.0,0.0,PayPal,Mobile App,Toronto,North America,Female,67
+TX-10055,CUST-1009,Aria Anderson,2025-07-06,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,20.9,0.05,Bank Transfer,Online Web,Tokyo,Asia-Pacific,Female,66
+TX-10712,CUST-1145,Mia Miller,2025-11-12,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,2,75.0,135.0,0.1,Apple Pay,Mobile App,Singapore,Asia-Pacific,Female,31
+TX-10379,CUST-1079,Alexander White,2025-09-18,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,297.07,0.15,Bank Transfer,Online Web,Paris,Europe,Non-Binary,28
+TX-10064,CUST-1010,Mia Wilson,2025-12-07,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,104.5,0.05,Bank Transfer,In-Store POS,San Francisco,North America,Female,27
+TX-10302,CUST-1064,William Jackson,2025-12-14,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,4,32.0,108.8,0.15,PayPal,In-Store POS,New York,North America,Male,58
+TX-10639,CUST-1131,Henry Wilson,2025-11-02,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,3,65.5,196.5,0.0,Debit Card,Online Web,Berlin,Europe,Female,28
+TX-10414,CUST-1086,Aria Martinez,2026-01-06,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,39.99,0.0,PayPal,Mobile App,San Francisco,North America,Female,64
+TX-10523,CUST-1110,Chloe Johnson,2025-10-19,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,23.27,0.05,Apple Pay,Mobile App,Paris,Europe,Female,62
+TX-10009,CUST-1001,Sophia Smith,2025-12-13,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,58.0,0.0,Bank Transfer,Online Web,Berlin,Europe,Female,35
+TX-10092,CUST-1017,Jack Jones,2025-07-12,PROD-EL04,USB-C Fast Charging Hub,Electronics,3,39.99,113.97,0.05,PayPal,Mobile App,Berlin,Europe,Female,36
+TX-10353,CUST-1075,Henry Johnson,2026-02-03,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,22.05,0.1,Apple Pay,Online Web,San Francisco,North America,Non-Binary,48
+TX-10614,CUST-1126,Henry Jackson,2025-08-14,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,39.9,0.05,Apple Pay,Mobile App,New York,North America,Non-Binary,33
+TX-10312,CUST-1067,Harper Jackson,2025-08-05,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,35.99,0.1,PayPal,Mobile App,Toronto,North America,Non-Binary,68
+TX-10307,CUST-1066,Emma Anderson,2025-07-11,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Bank Transfer,In-Store POS,London,Europe,Non-Binary,36
+TX-10325,CUST-1069,Alexander Thomas,2025-09-23,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,2,24.5,44.1,0.1,Credit Card,Online Web,London,Europe,Male,31
+TX-10211,CUST-1045,Sebastian Rodriguez,2025-08-01,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,2,28.0,56.0,0.0,PayPal,In-Store POS,Sydney,Asia-Pacific,Male,48
+TX-10201,CUST-1043,Chloe Smith,2026-01-03,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,2,28.0,53.2,0.05,Debit Card,In-Store POS,San Francisco,North America,Female,31
+TX-10458,CUST-1098,Oliver Jones,2025-06-12,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,3,85.0,255.0,0.0,Credit Card,Mobile App,Chicago,North America,Female,45
+TX-10400,CUST-1084,Aria Martinez,2025-09-07,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,25.2,0.1,PayPal,Online Web,Sydney,Asia-Pacific,Male,49
+TX-10299,CUST-1063,Luna Jackson,2026-02-22,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,23.85,0.1,PayPal,Online Web,New York,North America,Female,25
+TX-10545,CUST-1114,Sophia Miller,2025-03-20,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,90.0,0.0,Bank Transfer,Mobile App,Berlin,Europe,Female,58
+TX-10464,CUST-1099,Lucas Williams,2025-12-04,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,199.99,0.0,Bank Transfer,In-Store POS,Toronto,North America,Male,42
+TX-10724,CUST-1148,Matthew Davis,2025-11-18,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,120.0,0.0,Apple Pay,In-Store POS,Toronto,North America,Female,55
+TX-10151,CUST-1031,Chloe Davis,2025-07-14,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,80.0,0.0,Credit Card,In-Store POS,Berlin,Europe,Male,63
+TX-10001,CUST-1001,Sophia Smith,2025-03-18,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,28.0,0.2,Bank Transfer,In-Store POS,Berlin,Europe,Female,35
+TX-10143,CUST-1027,James Brown,2026-01-02,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,161.5,0.05,Bank Transfer,Online Web,Paris,Europe,Male,36
+TX-10223,CUST-1047,Emma Thompson,2025-12-29,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Bank Transfer,Online Web,Singapore,Asia-Pacific,Female,68
+TX-10093,CUST-1017,Jack Jones,2025-08-26,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,76.0,0.2,Debit Card,Online Web,Berlin,Europe,Female,36
+TX-10063,CUST-1009,Aria Anderson,2026-03-10,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,3,42.0,119.7,0.05,Debit Card,Online Web,Tokyo,Asia-Pacific,Female,66
+TX-10507,CUST-1106,Sebastian Thompson,2026-01-01,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,189.99,0.05,PayPal,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10336,CUST-1071,Jack Anderson,2025-09-12,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,2,349.5,699.0,0.0,Credit Card,Online Web,Berlin,Europe,Female,35
+TX-10389,CUST-1081,Evelyn Jackson,2025-04-13,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,PayPal,Online Web,Chicago,North America,Female,47
+TX-10112,CUST-1021,Sebastian Taylor,2026-01-30,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,39.99,0.0,Credit Card,Mobile App,Tokyo,Asia-Pacific,Male,54
+TX-10072,CUST-1011,Jack Anderson,2026-01-25,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Apple Pay,In-Store POS,Chicago,North America,Male,43
+TX-10636,CUST-1131,Henry Wilson,2025-07-08,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,2,35.0,66.5,0.05,Debit Card,Online Web,Berlin,Europe,Female,28
+TX-10316,CUST-1067,Harper Jackson,2026-01-28,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,1,199.99,169.99,0.15,PayPal,Mobile App,Toronto,North America,Non-Binary,68
+TX-10181,CUST-1037,Mia Moore,2026-01-20,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,32.3,0.15,Apple Pay,Mobile App,Toronto,North America,Female,27
+TX-10456,CUST-1097,Evelyn Garcia,2025-08-11,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,3,349.5,891.23,0.15,Apple Pay,In-Store POS,Berlin,Europe,Male,41
+TX-10669,CUST-1138,Ava Johnson,2025-09-30,PROD-EL01,Wireless Noise-Cancelling Headphones,Electronics,2,199.99,399.98,0.0,Bank Transfer,Online Web,Berlin,Europe,Male,28
+TX-10569,CUST-1117,Aria Brown,2026-02-13,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,80.0,0.0,Credit Card,In-Store POS,Tokyo,Asia-Pacific,Female,43
+TX-10634,CUST-1130,Harper Thomas,2025-10-29,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Apple Pay,In-Store POS,Singapore,Asia-Pacific,Male,43
+TX-10475,CUST-1101,Matthew Smith,2025-10-24,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,360.0,0.0,PayPal,Mobile App,Tokyo,Asia-Pacific,Male,51
+TX-10721,CUST-1147,Evelyn Hernandez,2026-03-09,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,19.8,0.1,Debit Card,Mobile App,San Francisco,North America,Non-Binary,35
+TX-10499,CUST-1105,Sebastian Miller,2026-02-16,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,19.8,0.1,Apple Pay,In-Store POS,Sydney,Asia-Pacific,Female,60
+TX-10707,CUST-1144,Sophia Davis,2026-03-04,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,2,42.0,67.2,0.2,Apple Pay,In-Store POS,London,Europe,Male,63
+TX-10080,CUST-1014,Chloe Garcia,2025-05-23,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,32.0,0.0,Credit Card,Mobile App,Paris,Europe,Female,35
+TX-10178,CUST-1037,Mia Moore,2025-09-24,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,2,180.0,306.0,0.15,Apple Pay,In-Store POS,Toronto,North America,Female,27
+TX-10242,CUST-1050,Mia Taylor,2026-01-23,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,Apple Pay,Mobile App,San Francisco,North America,Non-Binary,36
+TX-10558,CUST-1114,Sophia Miller,2026-03-13,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,23.85,0.1,Debit Card,Online Web,Berlin,Europe,Female,58
+TX-10351,CUST-1075,Henry Johnson,2025-11-27,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,36.1,0.05,PayPal,Mobile App,San Francisco,North America,Non-Binary,48
+TX-10581,CUST-1119,Luna Moore,2025-07-20,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Bank Transfer,Mobile App,San Francisco,North America,Male,44
+TX-10446,CUST-1095,Ella Hernandez,2026-03-01,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,23.27,0.05,Credit Card,In-Store POS,Berlin,Europe,Female,61
+TX-10442,CUST-1095,Ella Hernandez,2025-10-24,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,PayPal,Mobile App,Berlin,Europe,Female,61
+TX-10606,CUST-1126,Henry Jackson,2025-03-21,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,90.25,0.05,Apple Pay,Mobile App,New York,North America,Non-Binary,33
+TX-10214,CUST-1046,Chloe Moore,2025-10-04,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,71.25,0.05,Bank Transfer,Online Web,Chicago,North America,Female,39
+TX-10349,CUST-1074,Chloe Martinez,2026-01-28,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,55.67,0.15,Debit Card,In-Store POS,New York,North America,Female,37
+TX-10068,CUST-1011,Jack Anderson,2025-08-06,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,2,22.0,41.8,0.05,Bank Transfer,In-Store POS,Chicago,North America,Male,43
+TX-10394,CUST-1081,Evelyn Jackson,2025-10-13,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,Apple Pay,Mobile App,Chicago,North America,Female,47
+TX-10494,CUST-1104,Ella Smith,2025-09-20,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,23.27,0.05,PayPal,Mobile App,Toronto,North America,Male,63
+TX-10163,CUST-1033,Alexander Smith,2025-11-21,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,2,42.0,84.0,0.0,Debit Card,Online Web,Tokyo,Asia-Pacific,Non-Binary,35
+TX-10562,CUST-1115,Evelyn Thompson,2025-10-26,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,332.02,0.05,Credit Card,Online Web,Toronto,North America,Male,66
+TX-10250,CUST-1053,Mia Rodriguez,2025-07-31,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,35.0,0.0,Credit Card,Mobile App,Toronto,North America,Female,63
+TX-10245,CUST-1051,Emma White,2026-01-18,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Apple Pay,In-Store POS,San Francisco,North America,Male,63
+TX-10424,CUST-1089,Sebastian Moore,2025-08-05,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,31.99,0.2,Apple Pay,Mobile App,Toronto,North America,Female,30
+TX-10605,CUST-1125,Harper Rodriguez,2025-09-28,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,131.0,0.0,PayPal,Online Web,Paris,Europe,Male,59
+TX-10411,CUST-1086,Aria Martinez,2025-09-16,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,2,48.0,86.4,0.1,Bank Transfer,Online Web,San Francisco,North America,Female,64
+TX-10683,CUST-1143,Matthew Thomas,2025-03-20,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,23.8,0.15,PayPal,In-Store POS,Berlin,Europe,Non-Binary,60
+TX-10730,CUST-1149,William Rodriguez,2025-11-01,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,Credit Card,Mobile App,Chicago,North America,Female,24
+TX-10310,CUST-1066,Emma Anderson,2025-09-28,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,4,32.0,128.0,0.0,PayPal,In-Store POS,London,Europe,Non-Binary,36
+TX-10704,CUST-1144,Sophia Davis,2025-10-10,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,2,95.0,152.0,0.2,Bank Transfer,Online Web,London,Europe,Male,63
+TX-10570,CUST-1118,Harper Williams,2025-03-19,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,110.0,0.0,Credit Card,In-Store POS,Singapore,Asia-Pacific,Non-Binary,42
+TX-10334,CUST-1071,Jack Anderson,2025-05-28,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,39.99,0.0,Debit Card,In-Store POS,Berlin,Europe,Female,35
+TX-10110,CUST-1021,Sebastian Taylor,2025-10-21,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,297.07,0.15,PayPal,Mobile App,Tokyo,Asia-Pacific,Male,54
+TX-10416,CUST-1086,Aria Martinez,2026-02-27,PROD-EL02,"Ultra HD 4K Monitor 27""",Electronics,1,349.5,332.02,0.05,PayPal,Mobile App,San Francisco,North America,Female,64
+TX-10106,CUST-1020,Sophia Jones,2025-11-29,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,25.2,0.1,Debit Card,Online Web,Chicago,North America,Non-Binary,48
+TX-10521,CUST-1110,Chloe Johnson,2025-09-01,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,2,110.0,220.0,0.0,Apple Pay,In-Store POS,Paris,Europe,Female,62
+TX-10131,CUST-1026,Ava Jackson,2026-03-03,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,37.8,0.1,PayPal,In-Store POS,Singapore,Asia-Pacific,Female,59
+TX-10589,CUST-1121,Henry White,2025-12-31,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,81.0,0.1,Apple Pay,Online Web,Singapore,Asia-Pacific,Male,50
+TX-10619,CUST-1126,Henry Jackson,2026-02-21,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Apple Pay,Mobile App,New York,North America,Non-Binary,33
+TX-10357,CUST-1076,Alexander Thomas,2025-11-27,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,64.6,0.15,Credit Card,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,28
+TX-10290,CUST-1061,Emma Williams,2025-08-14,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,Credit Card,Mobile App,Toronto,North America,Male,23
+TX-10175,CUST-1037,Mia Moore,2025-04-29,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,3,95.0,256.5,0.1,Credit Card,In-Store POS,Toronto,North America,Female,27
+TX-10473,CUST-1101,Matthew Smith,2025-08-04,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,20.9,0.05,Debit Card,Online Web,Tokyo,Asia-Pacific,Male,51
+TX-10491,CUST-1104,Ella Smith,2025-06-07,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,2,28.0,53.2,0.05,PayPal,In-Store POS,Toronto,North America,Male,63
+TX-10360,CUST-1076,Alexander Thomas,2026-02-17,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,33.99,0.15,Debit Card,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,28
+TX-10116,CUST-1023,Alexander Brown,2026-01-18,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,PayPal,Mobile App,Berlin,Europe,Male,31
+TX-10487,CUST-1103,Chloe White,2026-02-16,PROD-SP04,Ultralight Compact Hiking Backpack,Sports & Outdoors,1,95.0,80.75,0.15,Debit Card,In-Store POS,London,Europe,Male,35
+TX-10067,CUST-1010,Mia Wilson,2026-02-28,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,131.0,0.0,Credit Card,Mobile App,San Francisco,North America,Female,27
+TX-10031,CUST-1003,Oliver Davis,2026-02-08,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Debit Card,Mobile App,London,Europe,Non-Binary,59
+TX-10500,CUST-1106,Sebastian Thompson,2025-04-05,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,3,110.0,313.5,0.05,Apple Pay,Mobile App,Tokyo,Asia-Pacific,Non-Binary,22
+TX-10465,CUST-1099,Lucas Williams,2026-01-24,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,17.6,0.2,Apple Pay,In-Store POS,Toronto,North America,Male,42
+TX-10333,CUST-1071,Jack Anderson,2025-05-10,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Bank Transfer,In-Store POS,Berlin,Europe,Female,35
+TX-10339,CUST-1071,Jack Anderson,2025-12-29,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,56.99,0.05,Credit Card,Online Web,Berlin,Europe,Female,35
+TX-10188,CUST-1039,Emma Brown,2026-01-06,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,114.0,0.05,Credit Card,In-Store POS,New York,North America,Male,67
+TX-10687,CUST-1143,Matthew Thomas,2025-05-24,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Bank Transfer,In-Store POS,Berlin,Europe,Non-Binary,60
+TX-10373,CUST-1078,Daniel Jackson,2026-02-07,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,2,28.0,56.0,0.0,PayPal,Mobile App,London,Europe,Male,48
+TX-10265,CUST-1057,Jack Jackson,2025-11-29,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,4,85.0,306.0,0.1,Apple Pay,Mobile App,Berlin,Europe,Non-Binary,62
+TX-10681,CUST-1142,Mia Martin,2025-12-28,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,2,75.0,142.5,0.05,Bank Transfer,In-Store POS,Toronto,North America,Male,49
+TX-10148,CUST-1030,Ava Rodriguez,2026-02-25,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,1,120.0,120.0,0.0,PayPal,Mobile App,Singapore,Asia-Pacific,Non-Binary,48
+TX-10230,CUST-1048,Emma Thompson,2026-02-28,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,39.9,0.05,Debit Card,Mobile App,Sydney,Asia-Pacific,Non-Binary,54
+TX-10238,CUST-1049,Daniel Williams,2026-02-27,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Bank Transfer,Mobile App,Chicago,North America,Female,59
+TX-10482,CUST-1102,Harper Wilson,2025-10-24,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,3,22.0,62.7,0.05,Debit Card,Mobile App,Toronto,North America,Male,55
+TX-10674,CUST-1139,Sebastian Moore,2025-12-29,PROD-EL04,USB-C Fast Charging Hub,Electronics,2,39.99,79.98,0.0,Debit Card,In-Store POS,San Francisco,North America,Non-Binary,61
+TX-10660,CUST-1136,Chloe Wilson,2025-11-07,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,26.6,0.05,Debit Card,Mobile App,Chicago,North America,Non-Binary,52
+TX-10318,CUST-1068,Mia Miller,2025-09-14,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,2,48.0,81.6,0.15,Credit Card,Online Web,Chicago,North America,Male,22
+TX-10467,CUST-1101,Matthew Smith,2025-03-18,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,33.25,0.05,Debit Card,Mobile App,Tokyo,Asia-Pacific,Male,51
+TX-10100,CUST-1018,Chloe Rodriguez,2026-01-03,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,2,38.0,72.2,0.05,Bank Transfer,Online Web,Tokyo,Asia-Pacific,Male,58
+TX-10480,CUST-1102,Harper Wilson,2025-08-17,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,45.6,0.05,PayPal,In-Store POS,Toronto,North America,Male,55
+TX-10096,CUST-1017,Jack Jones,2025-11-20,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Bank Transfer,Online Web,Berlin,Europe,Female,36
+TX-10135,CUST-1027,James Brown,2025-04-10,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,30.4,0.05,Debit Card,Mobile App,Paris,Europe,Male,36
+TX-10582,CUST-1119,Luna Moore,2025-08-06,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,4,26.5,90.1,0.15,Apple Pay,Mobile App,San Francisco,North America,Male,44
+TX-10477,CUST-1101,Matthew Smith,2025-11-26,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,23.85,0.1,Apple Pay,Online Web,Tokyo,Asia-Pacific,Male,51
+TX-10081,CUST-1015,Alexander Taylor,2026-02-23,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,45.6,0.05,Apple Pay,Online Web,Berlin,Europe,Female,34
+TX-10547,CUST-1114,Sophia Miller,2025-04-05,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,29.0,0.0,Bank Transfer,In-Store POS,Berlin,Europe,Female,58
+TX-10203,CUST-1044,Ella Davis,2025-09-02,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,3,35.0,105.0,0.0,Bank Transfer,In-Store POS,Toronto,North America,Female,31
+TX-10341,CUST-1071,Jack Anderson,2026-02-17,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,39.9,0.05,Credit Card,Mobile App,Berlin,Europe,Female,35
+TX-10738,CUST-1150,Evelyn White,2026-01-24,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,3,89.0,253.65,0.05,Bank Transfer,Online Web,Tokyo,Asia-Pacific,Male,49
+TX-10365,CUST-1078,Daniel Jackson,2025-04-07,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Bank Transfer,Online Web,London,Europe,Male,48
+TX-10632,CUST-1130,Harper Thomas,2025-07-18,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Bank Transfer,Online Web,Singapore,Asia-Pacific,Male,43
+TX-10457,CUST-1097,Evelyn Garcia,2025-09-11,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,2,85.0,170.0,0.0,Credit Card,Online Web,Berlin,Europe,Male,41
+TX-10645,CUST-1133,Ella Rodriguez,2026-01-07,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,2,45.0,85.5,0.05,PayPal,In-Store POS,Tokyo,Asia-Pacific,Non-Binary,59
+TX-10607,CUST-1126,Henry Jackson,2025-03-30,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,Apple Pay,Mobile App,New York,North America,Non-Binary,33
+TX-10611,CUST-1126,Henry Jackson,2025-04-11,PROD-EL05,Portable Bluetooth Speaker,Electronics,1,59.99,59.99,0.0,Bank Transfer,Mobile App,New York,North America,Non-Binary,33
+TX-10184,CUST-1039,Emma Brown,2025-08-01,PROD-HM02,Linen Cotton Bedding Set Queen,Home & Living,1,110.0,99.0,0.1,PayPal,Online Web,New York,North America,Male,67
+TX-10402,CUST-1084,Aria Martinez,2025-10-31,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,38.25,0.15,Credit Card,Online Web,Sydney,Asia-Pacific,Male,49
+TX-10437,CUST-1094,Daniel Thomas,2025-06-24,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,2,28.0,50.4,0.1,PayPal,In-Store POS,Singapore,Asia-Pacific,Male,31
+TX-10089,CUST-1017,Jack Jones,2025-04-05,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,23.27,0.05,Apple Pay,Mobile App,Berlin,Europe,Female,36
+TX-10056,CUST-1009,Aria Anderson,2025-07-29,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,144.0,0.2,Credit Card,Mobile App,Tokyo,Asia-Pacific,Female,66
+TX-10393,CUST-1081,Evelyn Jackson,2025-08-29,PROD-BT01,Hyaluronic Acid Hydrating Serum,Beauty & Personal Care,1,32.0,32.0,0.0,Debit Card,In-Store POS,Chicago,North America,Female,47
+TX-10109,CUST-1021,Sebastian Taylor,2025-09-13,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,76.0,0.05,Credit Card,Mobile App,Tokyo,Asia-Pacific,Male,54
+TX-10698,CUST-1144,Sophia Davis,2025-03-30,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,23.8,0.15,Bank Transfer,Online Web,London,Europe,Male,63
+TX-10692,CUST-1143,Matthew Thomas,2025-12-18,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,80.75,0.05,PayPal,Online Web,Berlin,Europe,Non-Binary,60
+TX-10483,CUST-1103,Chloe White,2025-09-17,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,58.95,0.1,Bank Transfer,Mobile App,London,Europe,Male,35
+TX-10030,CUST-1003,Oliver Davis,2025-12-15,PROD-SP02,Insulated Stainless Steel Bottle 32oz,Sports & Outdoors,1,28.0,23.8,0.15,Bank Transfer,Mobile App,London,Europe,Non-Binary,59
+TX-10134,CUST-1027,James Brown,2025-04-05,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,38.0,0.05,Apple Pay,Mobile App,Paris,Europe,Male,36
+TX-10052,CUST-1008,Sophia Taylor,2025-08-13,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,2,120.0,216.0,0.1,Bank Transfer,Online Web,San Francisco,North America,Non-Binary,39
+TX-10455,CUST-1097,Evelyn Garcia,2025-06-16,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,4,28.0,112.0,0.0,Debit Card,Online Web,Berlin,Europe,Male,41
+TX-10554,CUST-1114,Sophia Miller,2025-11-15,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,Credit Card,In-Store POS,Berlin,Europe,Female,58
+TX-10347,CUST-1074,Chloe Martinez,2025-11-17,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,4,85.0,340.0,0.0,Credit Card,In-Store POS,New York,North America,Female,37
+TX-10628,CUST-1129,Mia Wilson,2025-11-18,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,26.6,0.05,Credit Card,Online Web,Tokyo,Asia-Pacific,Male,51
+TX-10319,CUST-1068,Mia Miller,2025-10-08,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,75.0,0.0,Debit Card,Mobile App,Chicago,North America,Male,22
+TX-10073,CUST-1011,Jack Anderson,2026-02-26,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,3,40.0,120.0,0.0,Bank Transfer,Online Web,Chicago,North America,Male,43
+TX-10176,CUST-1037,Mia Moore,2025-06-07,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,45.0,0.0,Debit Card,In-Store POS,Toronto,North America,Female,27
+TX-10251,CUST-1053,Mia Rodriguez,2025-09-20,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,3,22.0,66.0,0.0,Apple Pay,Online Web,Toronto,North America,Female,63
+TX-10588,CUST-1121,Henry White,2025-11-02,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,2,42.0,84.0,0.0,PayPal,In-Store POS,Singapore,Asia-Pacific,Male,50
+TX-10291,CUST-1061,Emma Williams,2025-09-22,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,2,65.5,104.8,0.2,Bank Transfer,In-Store POS,Toronto,North America,Male,23
+TX-10145,CUST-1027,James Brown,2026-03-03,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,2,29.0,58.0,0.0,Apple Pay,In-Store POS,Paris,Europe,Male,36
+TX-10278,CUST-1059,Sophia Jackson,2025-04-19,PROD-HM01,Ceramic Pour-Over Coffee Maker,Home & Living,1,35.0,31.5,0.1,Credit Card,Online Web,Chicago,North America,Male,39
+TX-10729,CUST-1149,William Rodriguez,2025-09-17,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,180.0,0.0,Bank Transfer,In-Store POS,Chicago,North America,Female,24
+TX-10563,CUST-1115,Evelyn Thompson,2025-12-10,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,48.0,0.0,PayPal,Mobile App,Toronto,North America,Male,66
+TX-10359,CUST-1076,Alexander Thomas,2026-01-22,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,23.85,0.1,Apple Pay,Online Web,Tokyo,Asia-Pacific,Non-Binary,28
+TX-10556,CUST-1114,Sophia Miller,2025-12-28,PROD-HM04,Stainless Steel Kitchen Knife Set,Home & Living,1,85.0,85.0,0.0,Bank Transfer,Mobile App,Berlin,Europe,Female,58
+TX-10212,CUST-1045,Sebastian Rodriguez,2025-09-04,PROD-BT05,Revitalizing Night Eye Cream,Beauty & Personal Care,1,48.0,38.4,0.2,Credit Card,Online Web,Sydney,Asia-Pacific,Male,48
+TX-10105,CUST-1020,Sophia Jones,2025-10-22,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,25.2,0.1,Debit Card,Online Web,Chicago,North America,Non-Binary,48
+TX-10527,CUST-1110,Chloe Johnson,2026-03-09,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,2,40.0,68.0,0.15,PayPal,In-Store POS,Paris,Europe,Female,62
+TX-10574,CUST-1118,Harper Williams,2025-06-30,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,39.99,0.0,PayPal,In-Store POS,Singapore,Asia-Pacific,Non-Binary,42
+TX-10638,CUST-1131,Henry Wilson,2025-10-18,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,36.1,0.05,Credit Card,Online Web,Berlin,Europe,Female,28
+TX-10016,CUST-1002,Sophia Jackson,2025-05-13,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,2,24.5,49.0,0.0,Apple Pay,Online Web,San Francisco,North America,Non-Binary,48
+TX-10118,CUST-1023,Alexander Brown,2026-02-23,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,38.0,0.05,PayPal,Mobile App,Berlin,Europe,Male,31
+TX-10281,CUST-1059,Sophia Jackson,2025-09-11,PROD-BT02,Organic Vitamin C Glow Cleanser,Beauty & Personal Care,1,26.5,25.17,0.05,Debit Card,Online Web,Chicago,North America,Male,39
+TX-10162,CUST-1033,Alexander Smith,2025-09-24,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,34.2,0.1,Debit Card,Online Web,Tokyo,Asia-Pacific,Non-Binary,35
+TX-10153,CUST-1031,Chloe Davis,2025-10-04,PROD-EL04,USB-C Fast Charging Hub,Electronics,3,39.99,113.97,0.05,Apple Pay,Mobile App,Berlin,Europe,Male,63
+TX-10280,CUST-1059,Sophia Jackson,2025-07-30,PROD-AP05,Handcrafted Leather Belt,Apparel & Fashion,1,45.0,42.75,0.05,Debit Card,Online Web,Chicago,North America,Male,39
+TX-10121,CUST-1025,Evelyn Martin,2025-10-15,PROD-BT03,Deep Repair Botanical Hair Mask,Beauty & Personal Care,1,38.0,38.0,0.0,Credit Card,Mobile App,Tokyo,Asia-Pacific,Female,30
+TX-10688,CUST-1143,Matthew Thomas,2025-07-12,PROD-HM05,Bamboo Ergonomic Desk Organizer,Home & Living,1,24.5,24.5,0.0,PayPal,Online Web,Berlin,Europe,Non-Binary,60
+TX-10452,CUST-1096,Daniel Moore,2025-12-27,PROD-AP01,Classic Merino Wool Sweater,Apparel & Fashion,1,75.0,63.75,0.15,Debit Card,Mobile App,London,Europe,Male,49
+TX-10327,CUST-1070,Sophia Taylor,2026-01-05,PROD-BT04,Mineral Sunscreen SPF 50,Beauty & Personal Care,1,29.0,27.55,0.05,Bank Transfer,Online Web,New York,North America,Male,35
+TX-10546,CUST-1114,Sophia Miller,2025-03-30,PROD-AP03,Waterproof Trail Running Jacket,Apparel & Fashion,3,120.0,342.0,0.05,Credit Card,Online Web,Berlin,Europe,Female,58
+TX-10284,CUST-1060,Alexander Davis,2025-10-23,PROD-AP04,Breathable Athletic Performance Tee,Apparel & Fashion,1,28.0,26.6,0.05,Debit Card,In-Store POS,Berlin,Europe,Non-Binary,52
+TX-10294,CUST-1061,Emma Williams,2026-01-30,PROD-EL03,Ergonomic Mechanical Keyboard,Electronics,1,89.0,89.0,0.0,Debit Card,In-Store POS,Toronto,North America,Male,23
+TX-10198,CUST-1042,Oliver Hernandez,2025-12-08,PROD-SP01,High-Density Non-Slip Yoga Mat,Sports & Outdoors,1,40.0,40.0,0.0,PayPal,Online Web,Singapore,Asia-Pacific,Female,24
+TX-10206,CUST-1044,Ella Davis,2026-01-31,PROD-EL04,USB-C Fast Charging Hub,Electronics,1,39.99,39.99,0.0,Bank Transfer,Online Web,Toronto,North America,Female,31
+TX-10329,CUST-1070,Sophia Taylor,2026-03-05,PROD-SP03,Adjustable Dumbbell Set 50lbs,Sports & Outdoors,1,180.0,171.0,0.05,Credit Card,Mobile App,New York,North America,Male,35
+TX-10215,CUST-1046,Chloe Moore,2025-11-05,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,62.22,0.05,Debit Card,In-Store POS,Chicago,North America,Female,39
+TX-10655,CUST-1135,James Jackson,2026-03-06,PROD-HM03,Aromatherapy Ultrasonic Diffuser,Home & Living,1,42.0,42.0,0.0,PayPal,In-Store POS,Chicago,North America,Male,23
+TX-10320,CUST-1068,Mia Miller,2025-12-02,PROD-AP02,Slim Fit Stretch Denim Jeans,Apparel & Fashion,1,65.5,65.5,0.0,Bank Transfer,In-Store POS,Chicago,North America,Male,22
+TX-10592,CUST-1122,Matthew Rodriguez,2025-11-27,PROD-SP05,Resistance Bands Multi-Pack,Sports & Outdoors,1,22.0,22.0,0.0,PayPal,Online Web,Paris,Europe,Female,26
